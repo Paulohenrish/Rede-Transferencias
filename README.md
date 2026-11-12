@@ -32,7 +32,7 @@ Baixe o dataset tratado do Zenodo (link no artigo) **ou** os arquivos brutos do
 ## Como executar
 
 ```bash
-./run.sh
+bash run.sh
 ```
 
 ou, passo a passo:
