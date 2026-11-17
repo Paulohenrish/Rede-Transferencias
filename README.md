@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ## Dados
 Para executar, baixe os arquivos brutos do [transfermarkt-datasets](https://www.kaggle.com/datasets/davidcariboo/player-scores) e coloque `transfers.csv`, `clubs.csv`, `competitions.csv` e `players.csv` em `data/raw/`.
 
-O dataset tratado gerado pelo pré-processamento já está em `data/processed/` e também publicado no Zenodo: LINK-DO-ZENODO
+O dataset tratado gerado pelo pré-processamento já está em `data/processed/` e também publicado no Zenodo: https://doi.org/10.5281/zenodo.24322322
 
 ## Como executar
 
