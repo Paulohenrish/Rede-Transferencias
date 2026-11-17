@@ -1,6 +1,6 @@
 == A1. Intermediação global (Brandes) ==
 V=796  E=29079  componentes fortemente conexas=4  maior CFC=793
-Validação: maior diferença vs NetworkX = 0.00e+00  (tempo nosso=4.60s, NetworkX=7.10s)
+Validação: maior diferença vs NetworkX = 0.00e+00  (tempo nosso=4.94s, NetworkX=9.11s)
 Correlação de Spearman intermediação x grau ponderado: 0.832
 Top 10:
   Olympiacos                   Grécia       BC=0.0907 (rank grau 4)
@@ -41,6 +41,14 @@ Jogadores que saíram de clubes BRA/ARG/COL para o exterior: 1986
   chegaram ao Top 5: 450 (22.7%)
     direto: 295 (65.6%)   com escala: 155 (34.4%)
   média de transferências até o Top 5: 1.78
+  nunca chegaram ao Top 5: 1536 (77.3%); última transferência de volta à América do Sul: 878 (57.2%)
+  primeiro destino de quem nunca chegou ao Top 5:
+    Fora da base   1043 (67.9%)
+    Portugal        102 (6.6%)
+    EUA             100 (6.5%)
+    México           91 (5.9%)
+    Rússia           52 (3.4%)
+    Ucrânia          31 (2.0%)
 País da primeira escala:
   Fora da base     83 (53.5%)
   Portugal         17 (11.0%)
@@ -105,12 +113,12 @@ Comunidades multinacionais (pureza < 80%): 9
 
 == A8. Escalabilidade do Brandes ==
   V            E  tempo_s          V_E
-100   440.333333 0.016653 4.403333e+04
-200  1735.333333 0.113432 3.470667e+05
-300  4222.000000 0.275463 1.266600e+06
-400  7106.000000 0.588614 2.842400e+06
-500 11287.666667 1.499947 5.643833e+06
-600 16357.000000 2.281693 9.814200e+06
-700 22453.333333 3.495178 1.571733e+07
-796 29079.000000 4.722149 2.314688e+07
-Ajuste linear tempo ~ V*E: R² = 0.993
+100   440.333333 0.016403 4.403333e+04
+200  1735.333333 0.122046 3.470667e+05
+300  4222.000000 0.386832 1.266600e+06
+400  7106.000000 0.826265 2.842400e+06
+500 11287.666667 1.443154 5.643833e+06
+600 16357.000000 2.384858 9.814200e+06
+700 22453.333333 3.806528 1.571733e+07
+796 29079.000000 5.368585 2.314688e+07
+Ajuste linear tempo ~ V*E: R² = 0.999
