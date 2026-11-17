@@ -1,0 +1,797 @@
+clube_id,nome,pais,liga,regiao,pagerank
+683,Olympiakos Syndesmos Filathlon Peiraios,Greece,GR1,Outros,0.00520757949584561
+631,Chelsea FC,England,GB1,Top 5 Europa,0.004371388634952103
+46,Inter Milan,Italy,IT1,Top 5 Europa,0.004303490346350509
+660,FC Shakhtar Donetsk,Ukraine,UKR1,Outros,0.004240205305678034
+294,SL Benfica,Portugal,PO1,Outros,0.00408872700942123
+252,Genoa CFC,Italy,IT1,Top 5 Europa,0.004076339813774165
+12,Associazione Sportiva Roma,Italy,IT1,Top 5 Europa,0.004063130318657918
+36,Fenerbahce,Türkiye,TR1,Outros,0.0038790946762969737
+720,FC Porto,Portugal,PO1,Outros,0.003673076347386878
+410,Udinese Calcio,Italy,IT1,Top 5 Europa,0.0036551758134344857
+430,ACF Fiorentina,Italy,IT1,Top 5 Europa,0.0036096302999468234
+338,Dynamo Kyiv,Ukraine,UKR1,Outros,0.003607217615685453
+506,Juventus FC,Italy,IT1,Top 5 Europa,0.003566005317370546
+281,Manchester City,England,GB1,Top 5 Europa,0.003547374902004163
+141,Galatasaray,Türkiye,TR1,Outros,0.003537168971205101
+276,Hellas Verona,Italy,IT1,Top 5 Europa,0.0034941191729642397
+62,SK Slavia Prague,Czech Republic,TS1,Outros,0.0034053036194384473
+800,Atalanta BC,Italy,IT1,Top 5 Europa,0.0033410558514844787
+114,Beşiktaş Jimnastik Kulübü,Türkiye,TR1,Outros,0.00333246715240672
+336,Sporting CP,Portugal,PO1,Outros,0.0032758336322787655
+5,AC Milan,Italy,IT1,Top 5 Europa,0.003191831424956763
+449,Trabzonspor,Türkiye,TR1,Outros,0.0031788474491017157
+13,Atlético de Madrid,Spain,ES1,Top 5 Europa,0.0030864897903616754
+6505,Gimcheon Sangmu Football Club,"Korea, South",RSK1,Outros,0.003067072262390469
+703,Nottingham Forest,England,GB1,Top 5 Europa,0.0029837781913641982
+6574,US Sassuolo,Italy,IT1,Top 5 Europa,0.002967841691414098
+371,Celtic FC,Scotland,SC1,Outros,0.0029608413529986365
+6195,SSC Napoli,Italy,IT1,Top 5 Europa,0.002952812295278493
+416,Torino FC,Italy,IT1,Top 5 Europa,0.0029270283296477816
+244,Olympique Marseille,France,FR1,Top 5 Europa,0.0029209214863590476
+1091,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,Greece,GR1,Outros,0.0028622062272932024
+148,Tottenham Hotspur,England,GB1,Top 5 Europa,0.002827472019939099
+162,AS Monaco,France,FR1,Top 5 Europa,0.002802687172814864
+543,Wolverhampton Wanderers,England,GB1,Top 5 Europa,0.002800022092282427
+58,RSC Anderlecht,Belgium,BE1,Outros,0.0027873541111145066
+197,AC Sparta Prague,Czech Republic,TS1,Outros,0.0027796994357967013
+368,Sevilla FC,Spain,ES1,Top 5 Europa,0.002758522726905734
+1075,SC Braga,Portugal,PO1,Outros,0.002731719786251622
+533,TSG 1899 Hoffenheim,Germany,L1,Top 5 Europa,0.0027313318939482314
+964,AO FK Zenit Sankt-Peterburg,Russia,RU1,Outros,0.002689072609153295
+189,Club Atlético Boca Juniors,Argentina,ARG1,América do Sul,0.002672565708758121
+1025,Bologna Football Club 1909,Italy,IT1,Top 5 Europa,0.002668430990262059
+1083,FK Rostov,Russia,RU1,Outros,0.00266559172451088
+6992,Chornomorets Odesa,Ukraine,UKR1,Outros,0.0026396726479333966
+234,Feyenoord Rotterdam,Netherlands,NL1,Outros,0.0026313458610471873
+159,Red Star Belgrade,Serbia,SER1,Outros,0.0026144319797851453
+1041,Olympique Lyon,France,FR1,Top 5 Europa,0.0025826324637350452
+24,Eintracht Frankfurt,Germany,L1,Top 5 Europa,0.0025653307447578953
+11,Arsenal FC,England,GB1,Top 5 Europa,0.0025558261670428706
+232,FK Spartak Moskva,Russia,RU1,Outros,0.0025329873495977665
+265,Panathinaikos Athlitikos Omilos,Greece,GR1,Outros,0.0025175723481279102
+82,VfL Wolfsburg,Germany,L1,Top 5 Europa,0.002512508350211364
+749,FC Empoli,Italy,IT1,Top 5 Europa,0.0024968927084487056
+419,GNK Dinamo Zagreb,Croatia,KR1,Outros,0.0024953473945203606
+409,Fußballclub Red Bull Salzburg,Austria,A1,Outros,0.0024939993957371325
+398,Società Sportiva Lazio S.p.A.,Italy,IT1,Top 5 Europa,0.0024840089511950388
+405,Aston Villa,England,GB1,Top 5 Europa,0.002479047045892476
+2282,Club Brugge KV,Belgium,BE1,Outros,0.002470816212323428
+6890,Basaksehir FK,Türkiye,TR1,Outros,0.002436291286541325
+1050,Villarreal CF,Spain,ES1,Top 5 Europa,0.002427199770865076
+1237,Brighton & Hove Albion,England,GB1,Top 5 Europa,0.0024268579070360155
+1038,UC Sampdoria,Italy,IT1,Top 5 Europa,0.002411460099654798
+1082,LOSC Lille,France,FR1,Top 5 Europa,0.002399384573374487
+2441,Athlitiki Enosi Konstantinoupoleos,Greece,GR1,Outros,0.002393335810542772
+9840,Al-Shabab Club,Saudi Arabia,SA1,Outros,0.0023747359060885833
+8023,Al-Ittihad Football Club,Saudi Arabia,SA1,Outros,0.0023746915301112565
+3057,Standard Liège,Belgium,BE1,Outros,0.0023711740594066096
+985,Manchester United,England,GB1,Top 5 Europa,0.002367286372749456
+31,Liverpool FC,England,GB1,Top 5 Europa,0.002366486789519689
+583,Paris Saint-Germain,France,FR1,Top 5 Europa,0.0023648765780021194
+273,Stade Rennais FC,France,FR1,Top 5 Europa,0.002357177930589027
+7160,Eyüpspor,Türkiye,TR1,Outros,0.00235227094675994
+1390,Cagliari Calcio,Italy,IT1,Top 5 Europa,0.0023458376224946603
+180,Southampton FC,England,GB1,Top 5 Europa,0.0023276907542870056
+2698,FC Rubin Kazan,Russia,RU1,Outros,0.002305798603144976
+1114,Al-Hilal Saudi Football Club,Saudi Arabia,SA1,Outros,0.002289766784933733
+23826,RB Leipzig,Germany,L1,Top 5 Europa,0.0022688363245918167
+79,VfB Stuttgart,Germany,L1,Top 5 Europa,0.0022652540305356903
+417,OGC Nice,France,FR1,Top 5 Europa,0.0022652034877400002
+1010,Watford FC,England,GB1,Top 5 Europa,0.0022623719159688225
+3938,Club Atlético Talleres,Argentina,ARG1,América do Sul,0.002243097778045693
+29,Everton FC,England,GB1,Top 5 Europa,0.002237565077836017
+610,Ajax Amsterdam,Netherlands,NL1,Outros,0.0022359869329739825
+2832,Gaziantep FK,Türkiye,TR1,Outros,0.0022236309769919234
+2410,PFK CSKA Moskva,Russia,RU1,Outros,0.0021970590461877094
+157,KAA Gent,Belgium,BE1,Outros,0.0021965011545989122
+2293,Konyaspor,Türkiye,TR1,Outros,0.002167899463523758
+1049,Valencia CF,Spain,ES1,Top 5 Europa,0.002160444952162407
+167,FC Augsburg,Germany,L1,Top 5 Europa,0.0021602458893096085
+130,Parma Calcio 1913,Italy,IT1,Top 5 Europa,0.0021349914328247536
+2425,Rio Ave FC,Portugal,PO1,Outros,0.0021325765837464537
+762,Newcastle United,England,GB1,Top 5 Europa,0.0021261163981578526
+865,FC Midtjylland,Denmark,DK1,Outros,0.0021036845248378526
+16795,Granada CF,Spain,ES1,Top 5 Europa,0.0021026927818492756
+150,Real Betis Balompié,Spain,ES1,Top 5 Europa,0.002102617521237151
+989,AFC Bournemouth,England,GB1,Top 5 Europa,0.00209982971410792
+15,Bayer 04 Leverkusen,Germany,L1,Top 5 Europa,0.002079272140440983
+18544,Al-Nassr Football Club,Saudi Arabia,SA1,Outros,0.00207683696705901
+124,Rangers FC,Scotland,SC1,Outros,0.0020733912599426654
+1023,Sociedade Esportiva Palmeiras,Brazil,BRA1,América do Sul,0.002070011021673697
+1184,KRC Genk,Belgium,BE1,Outros,0.0020501894427045475
+39,1.FSV Mainz 05,Germany,L1,Top 5 Europa,0.002045867792020961
+1003,Leicester City,England,GB1,Top 5 Europa,0.0020454772744971095
+383,PSV Eindhoven,Netherlands,NL1,Outros,0.0020428421618474924
+452,BSC Young Boys,Switzerland,C1,Outros,0.0020406271698115612
+33,FC Schalke 04,Germany,L1,Top 5 Europa,0.002039581037005177
+16704,FK Krasnodar,Russia,RU1,Outros,0.002037406991291208
+131,FC Barcelona,Spain,ES1,Top 5 Europa,0.002036594218466626
+10484,Kasimpasa,Türkiye,TR1,Outros,0.002033530593442427
+27,Bayern Munich,Germany,L1,Top 5 Europa,0.0020233955238678526
+1132,Burnley FC,England,GB1,Top 5 Europa,0.0020219868706564956
+209,Club Atlético River Plate,Argentina,ARG1,América do Sul,0.002020161703076111
+26,FC Basel 1893,Switzerland,C1,Outros,0.002015318629078898
+126,Caykur Rizespor,Türkiye,TR1,Outros,0.002010383963392315
+941,FC Viktoria Plzen,Czech Republic,TS1,Outros,0.0020017718086183666
+3709,Getafe CF,Spain,ES1,Top 5 Europa,0.0019984801538770725
+10690,Zorya Lugansk,Ukraine,UKR1,Outros,0.001990582049452979
+379,West Ham United,England,GB1,Top 5 Europa,0.0019740277910528414
+2696,PFK Krylya Sovetov Samara,Russia,RU1,Outros,0.0019673031938529494
+301,FCSB,Romania,RO1,Outros,0.0019614879344281495
+255,Legia Warszawa,Poland,PL1,Outros,0.001941162630163485
+2420,Vitória Guimarães SC,Portugal,PO1,Outros,0.0019386836176863871
+16,Borussia Dortmund,Germany,L1,Top 5 Europa,0.0019377482434781833
+8172,Atlético Nacional,Colombia,COL1,América do Sul,0.0019371901419838395
+6600,Sport Club Internacional,Brazil,BRA1,América do Sul,0.00193481208476494
+89,1.FC Union Berlin,Germany,L1,Top 5 Europa,0.001930995851639786
+28844,Al-Taawoun Football Club,Saudi Arabia,SA1,Outros,0.0019222089929965798
+380,US Salernitana 1919,Italy,IT1,Top 5 Europa,0.001902368295390122
+475,Sint-Truidense VV,Belgium,BE1,Outros,0.0019019151535274394
+190,FC Copenhagen,Denmark,DK1,Outros,0.0018960527175537723
+667,RC Strasbourg Alsace,France,FR1,Top 5 Europa,0.0018924984340082441
+1005,US Lecce,Italy,IT1,Top 5 Europa,0.001888399134250324
+41231,FK Sochi,Russia,RU1,Outros,0.0018755670183469232
+200,FC Utrecht,Netherlands,NL1,Outros,0.001874628891988518
+418,Real Madrid,Spain,ES1,Top 5 Europa,0.0018658570540425212
+7769,CFR Cluj,Romania,RO1,Outros,0.0018589555865103943
+537,S. A. F. Botafogo,Brazil,BRA1,América do Sul,0.0018529966242467704
+609,Cruzeiro Esporte Clube,Brazil,BRA1,América do Sul,0.0018500577814375449
+6502,Jeonbuk Hyundai Motors,"Korea, South",RSK1,Outros,0.0018321849201147092
+6646,Fatih Karagümrük,Türkiye,TR1,Outros,0.0018293537070963354
+18487,Al-Ahli Saudi Football Club,Saudi Arabia,SA1,Outros,0.0018293279031742682
+399,Leeds United,England,GB1,Top 5 Europa,0.0018291517998604533
+589,Antalyaspor,Türkiye,TR1,Outros,0.0018275500436285598
+826,RC Lens,France,FR1,Top 5 Europa,0.001826373879849915
+1444,Racing Club Asociación Civil de Avellaneda,Argentina,ARG1,América do Sul,0.0018243385588297455
+1108,Deportivo Alavés,Spain,ES1,Top 5 Europa,0.0018233702923964536
+53646,FK Polissya Zhytomyr,Ukraine,UKR1,Outros,0.0018226798851626715
+1047,Como 1907,Italy,IT1,Top 5 Europa,0.0018104683432585702
+12321,Girona FC,Spain,ES1,Top 5 Europa,0.0018085474880721883
+210,Grêmio Foot-Ball Porto Alegrense,Brazil,BRA1,América do Sul,0.001788105156961569
+2402,Club Social y Deportivo Defensa y Justicia,Argentina,ARG1,América do Sul,0.0017816848618866208
+455,FC Rapid 1923,Romania,RO1,Outros,0.0017804295368311685
+940,Celta de Vigo,Spain,ES1,Top 5 Europa,0.0017762436828485549
+605,Aris Thessalonikis,Greece,GR1,Outros,0.001772534288165105
+2288,Swansea City,England,GB1,Top 5 Europa,0.0017723436688107709
+3522,Spezia Calcio,Italy,IT1,Top 5 Europa,0.001767918366752963
+11282,Alanyaspor,Türkiye,TR1,Outros,0.0017630312538529458
+13353,Club Tijuana,Mexico,MEX1,Outros,0.0017605163797119773
+3725,RFK Akhmat Grozny,Russia,RU1,Outros,0.0017505019960907425
+121,FK Dinamo Moskva,Russia,RU1,Outros,0.0017440753497671355
+1090,AZ Alkmaar,Netherlands,NL1,Outros,0.0017431191507066709
+1096,Royal Antwerp FC,Belgium,BE1,Outros,0.0017354448894786123
+903,Hibernian FC,Scotland,SC1,Outros,0.0017341351371082366
+366,Real Valladolid CF,Spain,ES1,Top 5 Europa,0.0017335282529920097
+221,Santos Futebol Clube,Brazil,BRA1,América do Sul,0.0017302279004886535
+9644,Raków Częstochowa,Poland,PL1,Outros,0.00172691397937635
+614,Clube de Regatas do Flamengo,Brazil,BRA1,América do Sul,0.0017238694408161948
+932,"Футбольный клуб ""Локомотив"" Москва",Russia,RU1,Outros,0.0017137078934382772
+3329,FC Famalicão,Portugal,PO1,Outros,0.0017130503727229062
+7732,Al-Ettifaq Football Club,Saudi Arabia,SA1,Outros,0.001709244388631676
+995,FC Nantes,France,FR1,Top 5 Europa,0.0017036545281869802
+1467,Göztepe,Türkiye,TR1,Outros,0.0017016263637784285
+347,FC Metz,France,FR1,Top 5 Europa,0.0016980028598384642
+330,Clube Atlético Mineiro,Brazil,BRA1,América do Sul,0.0016953112194052343
+3,1.FC Köln,Germany,L1,Top 5 Europa,0.001688559699017875
+618,AS Saint-Étienne,France,FR1,Top 5 Europa,0.0016839645462714272
+3205,Kayserispor,Türkiye,TR1,Outros,0.0016838418685699357
+2407,CF Monterrey,Mexico,MEX1,Outros,0.001673125367526227
+1421,Stade Reims,France,FR1,Top 5 Europa,0.0016727848964346447
+238,Lech Poznan,Poland,PL1,Outros,0.001670933970353649
+1244,CD Leganés,Spain,ES1,Top 5 Europa,0.0016666963952064423
+85465,Karpaty Lviv,Ukraine,UKR1,Outros,0.0016664127222062535
+1234,Club Atlético Independiente de Avellaneda,Argentina,ARG1,América do Sul,0.001659065688834837
+237,RCD Mallorca,Spain,ES1,Top 5 Europa,0.001651707064967079
+370,Aberdeen FC,Scotland,SC1,Outros,0.0016492184178633987
+11648,Independiente Santa Fe,Colombia,COL1,América do Sul,0.001647963972555578
+86,SV Werder Bremen,Germany,L1,Top 5 Europa,0.0016467771553381738
+601,KV Kortrijk,Belgium,BE1,Outros,0.0016467727594699458
+55686,TOV FK Metalist 1925 Kharkiv,Ukraine,UKR1,Outros,0.0016397873094044508
+585,São Paulo Futebol Clube,Brazil,BRA1,América do Sul,0.0016358589958750892
+289,Sunderland AFC,England,GB1,Top 5 Europa,0.0016355387313652502
+820,Gençlerbirliği Spor Kulübü,Türkiye,TR1,Outros,0.0016301316325228563
+3631,CF América,Mexico,MEX1,Outros,0.0016208088274571241
+26069,Al-Qadsiah Saudi Football Club,Saudi Arabia,SA1,Outros,0.0016109263349718347
+3535,Ulsan Hyundai Football Club,"Korea, South",RSK1,Outros,0.00160988043324454
+48332,Kolos Kovalivka,Ukraine,UKR1,Outros,0.001606547841054623
+122,Sportklub Puntigamer Sturm Graz,Austria,A1,Outros,0.0016045034886213133
+931,Fulham FC,England,GB1,Top 5 Europa,0.0015970005686115184
+18303,FC Oleksandriya,Ukraine,UKR1,Outros,0.0015872833765828746
+2919,AC Monza,Italy,IT1,Top 5 Europa,0.0015833097252985562
+679,Clube Atlético Paranaense,Brazil,BRA1,América do Sul,0.0015831676913437866
+5546,FK Mlada Boleslav,Czech Republic,TS1,Outros,0.0015830482716467586
+2381,Sivasspor,Türkiye,TR1,Outros,0.0015785837953572407
+968,KVC Westerlo,Belgium,BE1,Outros,0.0015774986420416782
+3840,Adana Demirspor,Türkiye,TR1,Outros,0.0015753947747805582
+978,Club de Regatas Vasco da Gama,Brazil,BRA1,América do Sul,0.0015753394962496863
+3008,Hull City,England,GB1,Top 5 Europa,0.001568061811733674
+415,FC Toulouse,France,FR1,Top 5 Europa,0.0015677419594607017
+873,Crystal Palace,England,GB1,Top 5 Europa,0.0015638372657398238
+3060,APS Atromitos Athinon,Greece,GR1,Outros,0.0015594568389670383
+2740,Vorskla Poltava,Ukraine,UKR1,Outros,0.0015432971846075678
+714,RCD Espanyol Barcelona,Spain,ES1,Top 5 Europa,0.001539296528340675
+2727,Oud-Heverlee Leuven,Belgium,BE1,Outros,0.001539146227373489
+4941,Club León FC,Mexico,MEX1,Outros,0.0015318111788142712
+1158,FC Lorient,France,FR1,Top 5 Europa,0.0015292618597263277
+10093,Independiente Medellín,Colombia,COL1,América do Sul,0.0015271903726837926
+199,Sport Club Corinthians Paulista,Brazil,BRA1,América do Sul,0.0015187898614916948
+202,FC Groningen,Netherlands,NL1,Outros,0.0015184979206399594
+669,FK Partizan Belgrade,Serbia,SER1,Outros,0.0015165603819605959
+172,Royal Charleroi Sporting Club,Belgium,BE1,Outros,0.0015121602724469543
+1148,Brentford FC,England,GB1,Top 5 Europa,0.001509884184948364
+596,Gamba Osaka,Japan,JAP1,Outros,0.0015096686942768535
+60551,SC Dnipro-1,Ukraine,UKR1,Outros,0.0015065602460823271
+18,Borussia Mönchengladbach,Germany,L1,Top 5 Europa,0.0015065489949333236
+496,Malmö Fotbollförening,Sweden,SE1,Outros,0.001504681874335272
+2423,CD Santa Clara,Portugal,PO1,Outros,0.0015041305266894117
+3302,UD Almería,Spain,ES1,Top 5 Europa,0.001502232314014797
+367,Rayo Vallecano,Spain,ES1,Top 5 Europa,0.00149992596391891
+1030,Asociación Atlética Argentinos Juniors,Argentina,ARG1,América do Sul,0.0014993324112346428
+1465,GD Estoril Praia,Portugal,PO1,Outros,0.0014974883878932075
+206,Bröndby IF,Denmark,DK1,Outros,0.0014940909130800731
+44,Hertha BSC,Germany,L1,Top 5 Europa,0.0014936470971107952
+306,SC Heerenveen,Netherlands,NL1,Outros,0.0014928375117569644
+9961,Deportivo Cali,Colombia,COL1,América do Sul,0.0014888758197091206
+317,FC Twente Enschede,Netherlands,NL1,Outros,0.0014873583978589912
+1418,Club Atlético Rosario Central,Argentina,ARG1,América do Sul,0.0014831989237140035
+641,Middlesbrough FC,England,GB1,Top 5 Europa,0.001480465635820995
+385,Fortuna Sittardia Combinatie,Netherlands,NL1,Outros,0.0014803792011171852
+607,Venezia FC,Italy,IT1,Top 5 Europa,0.0014796805032592445
+19684,Jeju SK Football Club,"Korea, South",RSK1,Outros,0.0014796738939414089
+868,MKE Ankaragücü,Türkiye,TR1,Outros,0.0014788781427511485
+80,VfL Bochum,Germany,L1,Top 5 Europa,0.0014747920948580252
+50531,Al-Fayha FC,Saudi Arabia,SA1,Outros,0.0014717603463889706
+41,Hamburger SV,Germany,L1,Top 5 Europa,0.0014703388277797751
+10010,Esporte Clube Bahia,Brazil,BRA1,América do Sul,0.0014677439938676094
+11854,Junior FC,Colombia,COL1,América do Sul,0.0014649412469871464
+6429,FC Universitatea Cluj,Romania,RO1,Outros,0.001461906533136934
+60,SC Freiburg,Germany,L1,Top 5 Europa,0.0014616897323270883
+697,FC Slovan Liberec,Czech Republic,TS1,Outros,0.0014598778555883277
+1123,Norwich City,England,GB1,Top 5 Europa,0.0014593793859933495
+1095,ESTAC Troyes,France,FR1,Top 5 Europa,0.0014539769827161728
+350,Sheffield United,England,GB1,Top 5 Europa,0.0014497610226054532
+512,Stoke City,England,GB1,Top 5 Europa,0.0014469513599169761
+6499,Foundation Coorperation Hana Financial Group Inc. Football Club,"Korea, South",RSK1,Outros,0.0014463742869137153
+1775,Club Atlético San Lorenzo de Almagro,Argentina,ARG1,América do Sul,0.0014430890426384924
+1519,Dundee United FC,Scotland,SC1,Outros,0.0014427608577041642
+1531,Elche CF,Spain,ES1,Top 5 Europa,0.0014239542901805533
+520,Cercle Brugge,Belgium,BE1,Outros,0.0014211237871741896
+26459,NK Veres Rivne,Ukraine,UKR1,Outros,0.0014166687052604627
+468,Sparta Rotterdam,Netherlands,NL1,Outros,0.0014113633995130497
+49702,FK Nizhny Novgorod,Russia,RU1,Outros,0.0014111864338201474
+3719,FC Khimki (-2025),Russia,RU1,Outros,0.0014103823557287368
+11127,Ural Yekaterinburg,Russia,RU1,Outros,0.001408531865279749
+60949,Volou Neos Podosferikos Syllogos,Greece,GR1,Outros,0.0014070082358189771
+4035,CF Pachuca,Mexico,MEX1,Outros,0.001402461066833497
+7055,Tigres UANL,Mexico,MEX1,Outros,0.001401815710763786
+2741,FK Baltika,Russia,RU1,Outros,0.0013996150373183046
+7378,Portimonense SC,Portugal,PO1,Outros,0.0013995459262484277
+467,NEC Nijmegen,Netherlands,NL1,Outros,0.001397695095914565
+63007,LNZ Cherkasy,Ukraine,UKR1,Outros,0.0013924707590911123
+413,LASK,Austria,A1,Outros,0.0013831513070468795
+2352,CD América de Cali,Colombia,COL1,América do Sul,0.0013762746998053415
+2462,Fluminense Football Club,Brazil,BRA1,América do Sul,0.0013720180704594597
+1146,Club Necaxa,Mexico,MEX1,Outros,0.001371517784746116
+43,Heart of Midlothian FC,Scotland,SC1,Outros,0.0013710911067448697
+3209,Pendikspor,Türkiye,TR1,Outros,0.001368047019473152
+8970,Frosinone Calcio,Italy,IT1,Top 5 Europa,0.0013644532717939084
+447,HNK Hajduk Split,Croatia,KR1,Outros,0.0013639726826914773
+144,HNK Rijeka,Croatia,KR1,Outros,0.001358428342483573
+354,KV Mechelen,Belgium,BE1,Outros,0.0013579748271739015
+4,1.FC Nuremberg,Germany,L1,Top 5 Europa,0.0013568413236922203
+51828,Los Angeles Football Club,United States,MLS1,Outros,0.0013519099044183272
+6070,Al-Khaleej Club (Saihat),Saudi Arabia,SA1,Outros,0.0013514180196131896
+1322,FK Jablonec,Czech Republic,TS1,Outros,0.0013490283840006496
+38,Fortuna Düsseldorf,Germany,L1,Top 5 Europa,0.0013458074817087092
+288,Club Estudiantes de La Plata,Argentina,ARG1,América do Sul,0.0013452540946895938
+979,Moreirense FC,Portugal,PO1,Outros,0.001344750878334264
+1241,Livingston FC,Scotland,SC1,Outros,0.0013396203239852036
+428,Górnik Zabrze,Poland,PL1,Outros,0.0013360134996209586
+152,Samsunspor,Türkiye,TR1,Outros,0.0013330823614733775
+1269,PEC Zwolle,Netherlands,NL1,Outros,0.0013306823693488708
+499,Vitesse Arnhem,Netherlands,NL1,Outros,0.001330193057239023
+2239,US Cremonese,Italy,IT1,Top 5 Europa,0.0013282076788039435
+333,Club Atlético Lanús,Argentina,ARG1,América do Sul,0.001327664773816266
+14589,FC Orenburg,Russia,RU1,Outros,0.0013272519270338145
+678,Aarhus GF,Denmark,DK1,Outros,0.001322370573150282
+6676,A.G.S Asteras Tripolis,Greece,GR1,Outros,0.0013205342744955226
+1066,Nagoya Grampus Eight,Japan,JAP1,Outros,0.0013168000607627615
+31008,Al-Riyadh Saudi Club,Saudi Arabia,SA1,Outros,0.0013151364026976666
+8793,Red Bull Bragantino,Brazil,BRA1,América do Sul,0.0013124539394925101
+29831,FCV Farul Constanta,Romania,RO1,Outros,0.0013118983428687335
+828,Urawa Red Diamonds,Japan,JAP1,Outros,0.0013097779852789706
+6711,Deportivo Guadalajara,Mexico,MEX1,Outros,0.0013078448586637465
+776,Coritiba Foot Ball Club,Brazil,BRA1,América do Sul,0.0013067063933665305
+1804,Deportivo Toluca,Mexico,MEX1,Outros,0.0013065310246861952
+8590,Atlas Guadalajara,Mexico,MEX1,Outros,0.0013035520859477154
+681,Real Sociedad,Spain,ES1,Top 5 Europa,0.0012981465335557916
+504,Grasshopper Club Zurich,Switzerland,C1,Outros,0.0012967478905800904
+1304,Heracles Almelo,Netherlands,NL1,Outros,0.0012901497943782585
+35,FC St. Pauli,Germany,L1,Top 5 Europa,0.001286664189867153
+653,Omilos Filathlon Irakliou FC,Greece,GR1,Outros,0.0012861257512789726
+3711,CD Cruz Azul,Mexico,MEX1,Outros,0.0012847959023443956
+10870,Fortaleza Esporte Clube,Brazil,BRA1,América do Sul,0.001283126585249806
+3508,Zulte Waregem,Belgium,BE1,Outros,0.001282744759848954
+3911,Stade Brestois 29,France,FR1,Top 5 Europa,0.0012779180716424071
+1062,S-Pulse,Japan,JAP1,Outros,0.001275446966975081
+2424,Gil Vicente FC,Portugal,PO1,Outros,0.0012673373320137727
+40812,Universitatea Craiova,Romania,RO1,Outros,0.0012670791563430125
+6632,Hitachi Kashiwa Reysol,Japan,JAP1,Outros,0.001259118549204283
+603,Cardiff City,England,GB1,Top 5 Europa,0.0012549471948800925
+1286,Club Atlético Newell’s Old Boys,Argentina,ARG1,América do Sul,0.0012544352314194786
+501,Fotballklubben Bodø/Glimt,Norway,NO1,Outros,0.0012532585838063105
+4078,Club de Foot Montréal,United States,MLS1,Outros,0.0012522264199618677
+2778,FC Nordsjaelland,Denmark,DK1,Outros,0.0012453451664022125
+2063,Club Atlético Huracán,Argentina,ARG1,América do Sul,0.001243714609692193
+2671,PAS Giannina,Greece,GR1,Outros,0.0012317700639549172
+4961,Querétaro FC,Mexico,MEX1,Outros,0.0012301536029833318
+3948,Union Saint-Gilloise,Belgium,BE1,Outros,0.001227196094891785
+3958,Rakuten Vissel Kobe,Japan,JAP1,Outros,0.0012234705638604958
+798,Excelsior Rotterdam,Netherlands,NL1,Outros,0.0012212483682560453
+403,Willem II Tilburg,Netherlands,NL1,Outros,0.0012204769502134351
+2759,Ross County FC,Scotland,SC1,Outros,0.0012189809044094032
+1403,Santos Laguna,Mexico,MEX1,Outros,0.001212211111148843
+1247,Colorado Rapids,United States,MLS1,Outros,0.0012120687512081625
+49283,FC Juárez,Mexico,MEX1,Outros,0.0012100836974583298
+40,FC Girondins Bordeaux,France,FR1,Top 5 Europa,0.0012100728145561742
+7775,Hatayspor,Türkiye,TR1,Outros,0.0012088647374616332
+3828,Yokohama Marinos,Japan,JAP1,Outros,0.0012072691265090777
+458,Palermo FC,Italy,IT1,Top 5 Europa,0.0012062560400272402
+4172,Pisa Sporting Club,Italy,IT1,Top 5 Europa,0.0011984644905642168
+443,Vejle Boldklub,Denmark,DK1,Outros,0.0011977078197563924
+2578,St. Johnstone FC,Scotland,SC1,Outros,0.0011880795415607158
+377,FC Baník Ostrava a.s.,Czech Republic,TS1,Outros,0.0011853923798684426
+48726,Rukh Lviv,Ukraine,UKR1,Outros,0.0011834014760863213
+2300,Jagiellonia Bialystok,Poland,PL1,Outros,0.0011804889416499847
+50532,Damac Football Club,Saudi Arabia,SA1,Outros,0.0011791234055843183
+2672,APO Levadiakos Football Club,Greece,GR1,Outros,0.0011693185022202375
+7154,Radomiak Radom,Poland,PL1,Outros,0.0011675297258102251
+472,UD Las Palmas,Spain,ES1,Top 5 Europa,0.0011665879229602572
+3368,Levante UD,Spain,ES1,Top 5 Europa,0.0011652016931732216
+2440,D.C. United,United States,MLS1,Outros,0.0011631853728596446
+9131,Al-Hazem Sport Club,Saudi Arabia,SA1,Outros,0.0011629401867065564
+4083,FC Crotone,Italy,IT1,Top 5 Europa,0.0011573759749149237
+39097,Obolon Kyiv,Ukraine,UKR1,Outros,0.001156855009169581
+195,Rosenborg Ballklub,Norway,NO1,Outros,0.0011545873167080345
+69261,Club Internacional de Fútbol Miami,United States,MLS1,Outros,0.0011536900071035863
+3999,PAS Lamia 1964,Greece,GR1,Outros,0.0011517919954397225
+1029,Club Atlético Vélez Sársfield,Argentina,ARG1,América do Sul,0.001151766586832383
+6621,FK Cukaricki,Serbia,SER1,Outros,0.001148239847546179
+984,West Bromwich Albion,England,GB1,Top 5 Europa,0.0011358652053485752
+687,Molde Fotballklubb,Norway,NO1,Outros,0.0011356870633692962
+593,Kyoto Purple Sanga,Japan,JAP1,Outros,0.001134162719307798
+3592,Kryvbas Kryvyi Rig,Ukraine,UKR1,Outros,0.0011339163748867024
+1044,Djurgårdens Idrottsförening,Sweden,SE1,Outros,0.0011326339367494847
+51663,Atlanta United Football Club,United States,MLS1,Outros,0.001127910971159513
+465,St. Mirren FC,Scotland,SC1,Outros,0.0011267392379352176
+2722,SPAL,Italy,IT1,Top 5 Europa,0.0011252386817608056
+5724,Randers FC,Denmark,DK1,Outros,0.0011249255278426142
+928,Club Atlético Platense,Argentina,ARG1,América do Sul,0.001123226682219233
+6631,Tokyo Football Club,Japan,JAP1,Outros,0.0011229933177876327
+10503,Deportes Tolima,Colombia,COL1,América do Sul,0.0011228478686570135
+290,AJ Auxerre,France,FR1,Top 5 Europa,0.0011175233934427311
+1897,FC Hradec Kralove,Czech Republic,TS1,Outros,0.0011164242008470412
+42,Hannover 96,Germany,L1,Top 5 Europa,0.0011144897458115937
+76,Vålerengens Idrettsforening,Norway,NO1,Outros,0.0011112752859709057
+2350,Millonarios FC,Colombia,COL1,América do Sul,0.0011096152422259249
+2921,Delfino Pescara 1936,Italy,IT1,Top 5 Europa,0.001107593815697392
+168,Zaglebie Lubin,Poland,PL1,Outros,0.0011061791915702394
+34911,Neom Sports Club,Saudi Arabia,SA1,Outros,0.0011052342236850799
+40188,Atlético de San Luis,Mexico,MEX1,Outros,0.0011049753883376739
+3385,Panserraikos Serres,Greece,GR1,Outros,0.0011032308345511842
+2553,Kilmarnock FC,Scotland,SC1,Outros,0.0011017694445768042
+23568,Zelvia,Japan,JAP1,Outros,0.0010977997754377637
+5358,SD Huesca,Spain,ES1,Top 5 Europa,0.0010974578855709077
+82686,St. Louis City Soccer Club,United States,MLS1,Outros,0.0010969490969722293
+2687,Cádiz CF,Spain,ES1,Top 5 Europa,0.0010961582560267394
+677,Ipswich Town,England,GB1,Top 5 Europa,0.0010955764124683089
+1186,Torpedo Moscow,Russia,RU1,Outros,0.001092242770303952
+28643,SK Beveren,Belgium,BE1,Outros,0.0010908463707690562
+88,Widzew Lodz,Poland,PL1,Outros,0.0010893510560959295
+3524,Clermont Foot 63,France,FR1,Top 5 Europa,0.0010877610885345235
+9465,Petrolul Ploiesti,Romania,RO1,Outros,0.0010876889944222876
+4603,Athlitiki Enosi Larisas,Greece,GR1,Outros,0.0010876728828293077
+448,FK Vojvodina Novi Sad,Serbia,SER1,Outros,0.00108713437500341
+132,NAC Breda,Netherlands,NL1,Outros,0.001085538416510985
+311,Football Club Pohang Steelers,"Korea, South",RSK1,Outros,0.0010835287198280457
+8024,FC Arouca,Portugal,PO1,Outros,0.0010813045493497941
+7633,UNAM Pumas,Mexico,MEX1,Outros,0.0010790902941004315
+1039,Queens Park Rangers,England,GB1,Top 5 Europa,0.001077265238257485
+170,Rapid Vienna,Austria,A1,Outros,0.0010733068100485207
+173,Odense Boldklub,Denmark,DK1,Outros,0.0010733016495997443
+11194,NK Lokomotiva Zagreb,Croatia,KR1,Outros,0.001072828417130717
+327,NK Osijek,Croatia,KR1,Outros,0.0010710156363006775
+7179,CD Tondela,Portugal,PO1,Outros,0.0010687239246606106
+30120,Athlitiki Enosi Kifisias,Greece,GR1,Outros,0.0010652843325125833
+1496,FK Pardubice,Czech Republic,TS1,Outros,0.0010634697396669508
+25580,Melbourne City FC,Australia,AUS1,Outros,0.0010615233919096334
+40058,New York City Football Club,United States,MLS1,Outros,0.001060854546328053
+12574,CD Godoy Cruz Antonio Tomba,Argentina,ARG1,América do Sul,0.0010552254267130582
+6321,Vancouver Whitecaps FC,United States,MLS1,Outros,0.0010549471703610166
+1022,Cerezo Osaka,Japan,JAP1,Outros,0.0010515704346933709
+623,Red Bull New York,United States,MLS1,Outros,0.0010509340018314028
+738,Le Havre AC,France,FR1,Top 5 Europa,0.0010503925254105536
+3325,GD Chaves,Portugal,PO1,Outros,0.001048722173236875
+8818,FC Botosani,Romania,RO1,Outros,0.0010460219783775628
+9168,Houston Dynamo,United States,MLS1,Outros,0.0010452413132927794
+1420,Angers SCO,France,FR1,Top 5 Europa,0.0010451883917521993
+6418,Panetolikos Agrinio,Greece,GR1,Outros,0.0010436777556962061
+5689,Cracovia,Poland,PL1,Outros,0.001039823077699903
+1106,Club de Gimnasia y Esgrima La Plata,Argentina,ARG1,América do Sul,0.0010387384825381017
+9597,Avispa Fukuoka,Japan,JAP1,Outros,0.0010377351873896898
+169,Panionios Athens,Greece,GR1,Outros,0.0010370096392020103
+1124,Fakel Voronezh,Russia,RU1,Outros,0.0010341893298993522
+5817,Sönderjyske Fodbold,Denmark,DK1,Outros,0.0010336337619264566
+1061,Los Angeles Galaxy,United States,MLS1,Outros,0.0010272274499646614
+1109,BK Häcken,Sweden,SE1,Outros,0.0010260260701584558
+9811,Deportivo Pereira,Colombia,COL1,América do Sul,0.0010258833470466367
+21459,Gangwon Football Club,"Korea, South",RSK1,Outros,0.0010255040349904912
+6500,Football Club Seoul,"Korea, South",RSK1,Outros,0.0010239339768173701
+58049,FC Hermannstadt,Romania,RO1,Outros,0.0010237614849235783
+987,Motherwell FC,Scotland,SC1,Outros,0.0010229355837994313
+3268,Casa Pia AC,Portugal,PO1,Outros,0.0010113156737977147
+5662,Puebla FC,Mexico,MEX1,Outros,0.0010111458038832267
+61825,FC Minaj,Ukraine,UKR1,Outros,0.0010108987790514979
+105,SV Darmstadt 98,Germany,L1,Top 5 Europa,0.00101072953600577
+1245,KAS Eupen,Belgium,BE1,Outros,0.0010094147877427186
+369,Lyngby Boldklub,Denmark,DK1,Outros,0.0010088487832561118
+2497,Real Oviedo,Spain,ES1,Top 5 Europa,0.0010086359926090103
+19789,Yeni Malatyaspor,Türkiye,TR1,Outros,0.0010084938427540806
+257,FC St. Gallen 1879,Switzerland,C1,Outros,0.00100803176816494
+1063,Viborg FF,Denmark,DK1,Outros,0.0010077000842751488
+87883,FC Kudrivka,Ukraine,UKR1,Outros,0.0010074562891180972
+2790,FC Lugano,Switzerland,C1,Outros,0.0010059712128005851
+2241,Kashima Antlers FC,Japan,JAP1,Outros,0.001002999144623848
+11831,Club Atlético Tigre,Argentina,ARG1,América do Sul,0.0010003525858221201
+1533,SD Eibar,Spain,ES1,Top 5 Europa,0.0009986217275366664
+4294,SC Farense,Portugal,PO1,Outros,0.0009982230783833017
+51772,Football Club Cincinnati,United States,MLS1,Outros,0.000996969516379564
+511,Dundee FC,Scotland,SC1,Outros,0.0009967999532346596
+324,Pogon Szczecin,Poland,PL1,Outros,0.0009936896937177964
+813,Columbus Crew,United States,MLS1,Outros,0.000987149653509426
+1177,Silkeborg IF,Denmark,DK1,Outros,0.0009859144605622045
+54189,RWD Molenbeek,Belgium,BE1,Outros,0.0009834763327535333
+1071,Wigan Athletic,England,GB1,Top 5 Europa,0.0009805429180285855
+2414,AC Horsens,Denmark,DK1,Outros,0.0009800626247231574
+272,Allmänna Idrottsklubben,Sweden,SE1,Outros,0.000980062465281638
+10004,Paris FC,France,FR1,Top 5 Europa,0.000977501914008919
+527,Football Club Lausanne-Sport,Switzerland,C1,Outros,0.0009774845417549719
+924,Istanbulspor,Türkiye,TR1,Outros,0.000977252725941573
+63966,Nashville SC,United States,MLS1,Outros,0.0009741516981070928
+2431,CF Estrela Amadora,Portugal,PO1,Outros,0.0009737568385658478
+2125,Esporte Clube Vitória,Brazil,BRA1,América do Sul,0.0009692959371803702
+969,Montpellier HSC,France,FR1,Top 5 Europa,0.0009684657099610293
+353,Lillestrøm Sportsklubb,Norway,NO1,Outros,0.0009660513527139995
+82696,Mazatlán FC,Mexico,MEX1,Outros,0.0009633994632672552
+6643,Real Salt Lake,United States,MLS1,Outros,0.0009632224451918795
+8816,FC Dallas,United States,MLS1,Outros,0.000962921644134364
+897,Deportivo de La Coruña,Spain,ES1,Top 5 Europa,0.000960846839311619
+1084,Málaga CF,Spain,ES1,Top 5 Europa,0.000960775593521157
+1435,Go Ahead Eagles,Netherlands,NL1,Outros,0.0009547574883264023
+3729,Arsenal Tula,Russia,RU1,Outros,0.0009527884317862812
+8718,Sport Club do Recife,Brazil,BRA1,América do Sul,0.0009511932061724967
+56089,Minnesota United FC,United States,MLS1,Outros,0.0009504479687348363
+14554,Club Atlético Tucumán,Argentina,ARG1,América do Sul,0.0009494371352256784
+801,Idrottsföreningen Kamraterna Göteborg,Sweden,SE1,Outros,0.000946686314390231
+3876,Mirasol Futebol Clube,Brazil,BRA1,América do Sul,0.0009424923072950725
+12301,Club Atlético Aldosivi,Argentina,ARG1,América do Sul,0.0009422516269660289
+41274,Beerschot VA,Belgium,BE1,Outros,0.0009420458479391396
+2118,Wisla Plock,Poland,PL1,Outros,0.0009406948183980667
+1059,Hammarby IF,Sweden,SE1,Outros,0.00094034532605278
+91427,Al-Kholood Club,Saudi Arabia,SA1,Outros,0.0009399326929085339
+1416,Amiens SC,France,FR1,Top 5 Europa,0.0009396874937499462
+114977,San Diego Football Club,United States,MLS1,Outros,0.0009372126711550152
+432,Chicago Fire Soccer Club,United States,MLS1,Outros,0.0009358188053895778
+5551,Newcastle United Jets,Australia,AUS1,Outros,0.0009339477384276942
+6112,Piast Gliwice,Poland,PL1,Outros,0.0009318913780582396
+2448,Sporting Gijón,Spain,ES1,Top 5 Europa,0.0009285203585922614
+331,CA Osasuna,Spain,ES1,Top 5 Europa,0.0009278596991695445
+7006,Melbourne Victory,Australia,AUS1,Outros,0.0009275425758895994
+2503,Boavista FC,Portugal,PO1,Outros,0.00092656684057055
+142,Real Zaragoza,Spain,ES1,Top 5 Europa,0.000926212625388054
+78435,Charlotte Football Club,United States,MLS1,Outros,0.0009248106683420364
+31284,Club Atlético Central Córdoba,Argentina,ARG1,América do Sul,0.0009239517989781562
+27221,Al-Fateh Club,Saudi Arabia,SA1,Outros,0.0009217813752523606
+1032,Reading FC,England,GB1,Top 5 Europa,0.0009213976782153964
+72309,Austin FC,United States,MLS1,Outros,0.0009181433303211303
+65,SpVgg Greuther Fürth,Germany,L1,Top 5 Europa,0.0009164561986291524
+715,"Bohemians Praha 1905, a.s.",Czech Republic,TS1,Outros,0.0009160717967813384
+36100,Western Sydney Wanderers,Australia,AUS1,Outros,0.0009156180387286868
+32328,Al-Najma Sport Club,Saudi Arabia,SA1,Outros,0.0009133100895774239
+830,Club Atlético Banfield,Argentina,ARG1,América do Sul,0.0009115372322185865
+434,FC Luzern,Switzerland,C1,Outros,0.0009112624788041959
+7097,Club Atlético Unión,Argentina,ARG1,América do Sul,0.0009111477438647572
+5776,FC Fredericia,Denmark,DK1,Outros,0.0009110850328502729
+1100,Sportsklubben Brann,Norway,NO1,Outros,0.0009063033734637948
+30925,Gwangju Football Club,"Korea, South",RSK1,Outros,0.0009061825484847107
+10217,Sarpsborg 08 Fotballforening,Norway,NO1,Outros,0.0009049635478992468
+49364,Ingulets Petrove,Ukraine,UKR1,Outros,0.000903156173575852
+6912,FC Vizela,Portugal,PO1,Outros,0.0008974268102674602
+61,Servette FC,Switzerland,C1,Outros,0.0008969303663293076
+621,Athletic Bilbao,Spain,ES1,Top 5 Europa,0.0008965347041043175
+4000,Lechia Gdansk,Poland,PL1,Outros,0.0008917473479869783
+1110,Huddersfield Town,England,GB1,Top 5 Europa,0.0008915889354374489
+862,Chievo Verona,Italy,IT1,Top 5 Europa,0.0008908056777642832
+14,Austria Vienna,Austria,A1,Outros,0.0008900242853115076
+9598,Kawasaki Frontale,Japan,JAP1,Outros,0.0008884672746825327
+1053,Aalborg BK,Denmark,DK1,Outros,0.000887099257247531
+13726,MFK Karvina,Czech Republic,TS1,Outros,0.0008850552346724867
+626,New England Revolution,United States,MLS1,Outros,0.0008841985385918765
+242,FC Winterthur,Switzerland,C1,Outros,0.0008828235377106057
+6984,Once Caldas,Colombia,COL1,América do Sul,0.000882011250738645
+19,Brescia Calcio,Italy,IT1,Top 5 Europa,0.0008813266907854278
+6456,GKS GieKSa Katowice Spółka Akcyjna,Poland,PL1,Outros,0.0008808045902327511
+2311,"SK Sigma Olomouc, a.s.",Czech Republic,TS1,Outros,0.0008795784276648891
+260,FC Zürich,Switzerland,C1,Outros,0.0008786492470476867
+672,JEF United,Japan,JAP1,Outros,0.000872135722232284
+20,Bursaspor,Türkiye,TR1,Outros,0.0008715894610224744
+2417,Club Atlético Belgrano,Argentina,ARG1,América do Sul,0.0008701225276628914
+2697,Sanfrecce Hiroshima,Japan,JAP1,Outros,0.0008689945885740247
+24575,HNK Gorica,Croatia,KR1,Outros,0.0008685108011344852
+321,FC Sion,Switzerland,C1,Outros,0.0008624185671402841
+312,FC Dinamo 1948,Romania,RO1,Outros,0.0008590505398697192
+982,CD Nacional,Portugal,PO1,Outros,0.0008581974749337414
+952,UTA Arad,Romania,RO1,Outros,0.0008579371285875344
+22902,Alianza FC,Colombia,COL1,América do Sul,0.0008576263767339163
+8457,Shonan Bellmare,Japan,JAP1,Outros,0.0008571231847803011
+71665,Al-Okhdood Club,Saudi Arabia,SA1,Outros,0.0008554322918282923
+1101,Idrottsföreningen Elfsborg,Sweden,SE1,Outros,0.0008548734764990175
+6622,FK Mladost Lucani,Serbia,SER1,Outros,0.0008530573297382207
+218,San Jose Earthquakes,United States,MLS1,Outros,0.0008517999153275887
+814,FK Teplice,Czech Republic,TS1,Outros,0.0008504215657327961
+2029,Ceará Sporting Club,Brazil,BRA1,América do Sul,0.0008493704541776143
+7567,FK Radnicki Nis,Serbia,SER1,Outros,0.0008469339892479667
+120,Kocaelispor,Türkiye,TR1,Outros,0.0008468563025857158
+2995,FC Paços de Ferreira,Portugal,PO1,Outros,0.0008468548647690625
+2861,KV Oostende,Belgium,BE1,Outros,0.0008462180372830578
+235,RKC Waalwijk,Netherlands,NL1,Outros,0.0008452157673553198
+1829,Instituto Atlético Central Córdoba,Argentina,ARG1,América do Sul,0.0008443209310162337
+723,Almere City FC,Netherlands,NL1,Outros,0.0008428793406722701
+1031,Luton Town,England,GB1,Top 5 Europa,0.0008428120645749027
+4633,FK Novi Pazar,Serbia,SER1,Outros,0.0008427504554383357
+22171,Fagiano Okayama Sports Club,Japan,JAP1,Outros,0.0008416256622016422
+11141,Toronto FC,United States,MLS1,Outros,0.0008402520750431529
+4467,TSV Hartberg,Austria,A1,Outros,0.00083945008906543
+15906,Termalica Bruk-Bet Nieciecza Klub Sportowy,Poland,PL1,Outros,0.0008358289927255569
+2760,Partick Thistle FC,Scotland,SC1,Outros,0.0008315758192062575
+2969,Dijon FCO,France,FR1,Top 5 Europa,0.0008273032590236877
+53,OFK Beograd,Serbia,SER1,Outros,0.0008266748407446145
+10090,Asociación Deportivo Pasto,Colombia,COL1,América do Sul,0.0008262850064324607
+2036,1. Fußballclub Heidenheim 1846,Germany,L1,Top 5 Europa,0.0008260944140870116
+45604,Orlando City Soccer Club,United States,MLS1,Outros,0.0008232521391616043
+2700,Anzhi Makhachkala ( -2022),Russia,RU1,Outros,0.0008228994669311519
+21101,Kristiansund Ballklubb,Norway,NO1,Outros,0.0008212880527305713
+44006,Bodrum FK,Türkiye,TR1,Outros,0.0008204264969322272
+3734,Tokyo Verdy,Japan,JAP1,Outros,0.0008164749876980903
+239,Viking Fotballklubb,Norway,NO1,Outros,0.0008150378396474186
+24245,Ümraniyespor,Türkiye,TR1,Outros,0.000811033181759999
+4171,Benevento Calcio,Italy,IT1,Top 5 Europa,0.000809941128559605
+25467,Philadelphia Union,United States,MLS1,Outros,0.0008057087742186748
+10492,Esporte Clube Juventude,Brazil,BRA1,América do Sul,0.000805314544078661
+1293,Tromsø Idrettslag,Norway,NO1,Outros,0.0008045813316909646
+17209,Al-Wehda FC,Saudi Arabia,SA1,Outros,0.0008042955671846817
+2996,Incheon United Football Club,"Korea, South",RSK1,Outros,0.0007895570057509716
+17776,Associação Chapecoense de Futebol,Brazil,BRA1,América do Sul,0.0007882785102689858
+4309,Hamarkameratene,Norway,NO1,Outros,0.0007877431362467153
+6993,FK Mariupol,Ukraine,UKR1,Outros,0.0007875991624286064
+970,Perth Glory,Australia,AUS1,Outros,0.0007874606627326266
+23581,V-Varen Nagasaki,Japan,JAP1,Outros,0.0007834081037118502
+5544,1.FC Slovacko,Czech Republic,TS1,Outros,0.0007802634051677457
+12454,Club Atlético Sarmiento,Argentina,ARG1,América do Sul,0.0007800387419119132
+6495,Atlético Bucaramanga,Colombia,COL1,América do Sul,0.0007790427960642225
+269,Holstein Kiel,Germany,L1,Top 5 Europa,0.0007783461161988291
+35759,Bucheon Football Club 1995,"Korea, South",RSK1,Outros,0.0007737085821728103
+1268,ADO Den Haag,Netherlands,NL1,Outros,0.0007721863516516791
+4291,Portland Timbers,United States,MLS1,Outros,0.000771652490501004
+41278,ACSC FC Arges,Romania,RO1,Outros,0.0007713137562953813
+8054,Sydney FC,Australia,AUS1,Outros,0.0007708205863975968
+20590,Rionegro Águilas,Colombia,COL1,América do Sul,0.0007666552825357591
+1429,Cesena FC,Italy,IT1,Top 5 Europa,0.000763437463338426
+127,SC Paderborn 07,Germany,L1,Top 5 Europa,0.0007620971975879597
+11688,Giresunspor,Türkiye,TR1,Outros,0.0007579326630533669
+4441,Wolfsberger AC,Austria,A1,Outros,0.0007541594606428725
+28095,FK Ufa,Russia,RU1,Outros,0.0007528054815557215
+47,Iraklis Thessaloniki,Greece,GR1,Outros,0.0007463520573408312
+6107,Morski Związkowy Klub Sportowy Arka Gdynia Spółka Akcyjna,Poland,PL1,Outros,0.0007412870099816881
+54585,Sepsi OSK Sf. Gheorghe,Romania,RO1,Outros,0.0007389439361966141
+3137,FK TSC Backa Topola,Serbia,SER1,Outros,0.0007362515632522425
+192,Roda JC Kerkrade,Netherlands,NL1,Outros,0.000735668224574956
+759,Slask Wroclaw,Poland,PL1,Outros,0.000734199795171403
+32041,Fortaleza CEIF,Colombia,COL1,América do Sul,0.000729967757079783
+17425,Internacional de Bogotá,Colombia,COL1,América do Sul,0.0007271081845867518
+788,FK Napredak Krusevac,Serbia,SER1,Outros,0.0007241310378132501
+999,NK Istra 1961,Croatia,KR1,Outros,0.0007207865994644571
+3551,Sportclub Rheindorf Altach,Austria,A1,Outros,0.0007170217643588415
+110302,Avs Futebol,Portugal,PO1,Outros,0.0007096616939031062
+833,Denizlispor,Türkiye,TR1,Outros,0.0007095959419782846
+4959,SC Otelul Galati,Romania,RO1,Outros,0.0007049362316801308
+83678,Metalist Kharkiv,Ukraine,UKR1,Outros,0.0007043624046237433
+2362,Slaven Belupo Koprivnica,Croatia,KR1,Outros,0.0007036391894232849
+22381,Al-Raed SFC,Saudi Arabia,SA1,Outros,0.0006980254010176528
+9010,FCV Dender EH,Belgium,BE1,Outros,0.0006957966411075026
+21975,Football Club Mito HollyHock,Japan,JAP1,Outros,0.0006909786340392035
+2944,Ankaraspor,Türkiye,TR1,Outros,0.0006888781855393821
+9636,Seattle Sounders FC,United States,MLS1,Outros,0.0006885147673685335
+4795,FC Ingolstadt 04,Germany,L1,Top 5 Europa,0.0006875762700065363
+15276,FK Spartak Subotica,Serbia,SER1,Outros,0.0006862088455997878
+2521,FC Alverca,Portugal,PO1,Outros,0.0006860856665782387
+3837,Fredrikstad Fotballklubb,Norway,NO1,Outros,0.0006857396581824805
+5619,Aalesunds Fotballklubb,Norway,NO1,Outros,0.0006851719010231193
+1162,SM Caen,France,FR1,Top 5 Europa,0.0006816682626212128
+7831,Brisbane Roar,Australia,AUS1,Outros,0.0006797477449768491
+2451,Inverness Caledonian Thistle FC,Scotland,SC1,Outros,0.0006796927099093015
+25184,Club Atlético Barracas Central,Argentina,ARG1,América do Sul,0.0006757905935258732
+4284,Sporting Kansas City,United States,MLS1,Outros,0.0006747281905692199
+1191,Falkirk FC,Scotland,SC1,Outros,0.0006731521046372829
+10,Arminia Bielefeld,Germany,L1,Top 5 Europa,0.0006731481726487696
+29228,Royal Excel Mouscron (-2022),Belgium,BE1,Outros,0.0006698117510640278
+31622,Suwon FC,"Korea, South",RSK1,Outros,0.0006689713050483103
+943,Yokohama FC,Japan,JAP1,Outros,0.0006673407910704413
+18105,PFK Lviv,Ukraine,UKR1,Outros,0.0006652017398008692
+6954,Central Coast Mariners,Australia,AUS1,Outros,0.0006649233065568736
+14602,Asociación Atlética Estudiantes,Argentina,ARG1,América do Sul,0.0006621816602798199
+23,Eintracht Braunschweig,Germany,L1,Top 5 Europa,0.0006616464768433468
+938,FC Thun,Switzerland,C1,Outros,0.0006615875858279408
+450,FK Dukla Prague,Czech Republic,TS1,Outros,0.0006601525609247037
+2719,Mjällby Almänna Idrottsförening,Sweden,SE1,Outros,0.0006565559188685474
+1455,FC Dordrecht,Netherlands,NL1,Outros,0.0006546802808515771
+3609,Rotor Volgograd,Russia,RU1,Outros,0.0006529751146811261
+1301,CS Marítimo,Portugal,PO1,Outros,0.0006517311011334657
+1092,Idrottsföreningen  Brommapojkarna,Sweden,SE1,Outros,0.0006465690632016193
+3349,CD Feirense,Portugal,PO1,Outros,0.0006442539222025882
+32113,FK IMT Belgrad,Serbia,SER1,Outros,0.0006430194073843689
+71985,Akron Togliatti,Russia,RU1,Outros,0.0006421588337553892
+3690,SKA Khabarovsk,Russia,RU1,Outros,0.0006413115665442147
+37624,FC Metaloglobus Bucharest,Romania,RO1,Outros,0.0006393096876398554
+1426,VVV-Venlo,Netherlands,NL1,Outros,0.0006371375003664788
+441,Apollon Smyrnis,Greece,GR1,Outros,0.0006362433456155042
+8819,FK Javor-Matis Ivanjica,Serbia,SER1,Outros,0.0006319546385647462
+3714,Enisey Krasnoyarsk,Russia,RU1,Outros,0.0006311289447674259
+19657,Vendsyssel FF,Denmark,DK1,Outros,0.0006295023892073697
+3654,Kalmar Fotbollförening,Sweden,SE1,Outros,0.000629031721166051
+875,Adelaide United,Australia,AUS1,Outros,0.0006268558225029962
+599,NK Varazdin,Croatia,KR1,Outros,0.0006268207758223876
+38898,Football Club Anyang,"Korea, South",RSK1,Outros,0.0006252063060619141
+1283,FC Emmen,Netherlands,NL1,Outros,0.0006231284159058858
+41201,PFK Tambov (-2021),Russia,RU1,Outros,0.0006214265201100579
+3426,Esbjerg fB,Denmark,DK1,Outros,0.0006196060159589265
+2844,IFK Norrköping,Sweden,SE1,Outros,0.0006130167362177473
+266,SV Ried,Austria,A1,Outros,0.000612692536435577
+23184,KFUM-Kameratene Oslo,Norway,NO1,Outros,0.0006116468032594523
+6504,Daegu FC,"Korea, South",RSK1,Outros,0.0006111022484812124
+553,Ionikos Nikeas,Greece,GR1,Outros,0.000610249295479574
+29700,AFC Unirea 04 Slobozia,Romania,RO1,Outros,0.0006087768963426992
+133,SC Cambuur Leeuwarden,Netherlands,NL1,Outros,0.0006085367359052733
+855,EA Guingamp,France,FR1,Top 5 Europa,0.0006074258321602778
+33966,ACSM Politehnica Iasi,Romania,RO1,Outros,0.000606455097843461
+38628,Llaneros FC,Colombia,COL1,América do Sul,0.00060464613137189
+7945,IK Sirius,Sweden,SE1,Outros,0.0006020413924550938
+10997,Clube do Remo,Brazil,BRA1,América do Sul,0.0006003393211763823
+3691,Tom Tomsk,Russia,RU1,Outros,0.0005980391719956312
+86209,Livyi Bereg Kyiv,Ukraine,UKR1,Outros,0.0005958963248062947
+14687,Club Atlético Gimnasia y Esgrima de Mendoza,Argentina,ARG1,América do Sul,0.0005926600067754302
+267,Idrettsklubben Start,Norway,NO1,Outros,0.0005917488908557658
+322,Yverdon Sport FC,Switzerland,C1,Outros,0.0005894588475404079
+33328,FK Radnik Surdulica,Serbia,SER1,Outros,0.0005875055843498964
+23611,Olimpik Donetsk,Ukraine,UKR1,Outros,0.0005872627674987663
+2477,Karpaty Lviv (-2021),Ukraine,UKR1,Outros,0.0005860119548094693
+1160,Nîmes Olympique,France,FR1,Top 5 Europa,0.0005820621976678976
+84122,Epicentr Kamyanets-Podilskyi,Ukraine,UKR1,Outros,0.0005802999310441934
+71085,Macarthur FC,Australia,AUS1,Outros,0.0005742613907745876
+12179,Club Sportivo Independiente Rivadavia,Argentina,ARG1,América do Sul,0.000573961936616222
+750,FC Sochaux-Montbéliard,France,FR1,Top 5 Europa,0.0005731202439118844
+8445,Wellington Phoenix,Australia,AUS1,Outros,0.0005698843600297536
+1118,Örgryte IS,Sweden,SE1,Outros,0.0005647131023863029
+16239,Desna Chernigiv,Ukraine,UKR1,Outros,0.0005637153482431639
+724,FC Volendam,Netherlands,NL1,Outros,0.0005623624772191509
+8344,Albirex Niigata,Japan,JAP1,Outros,0.0005615116998308606
+68608,CF Os Belenenses,Portugal,PO1,Outros,0.0005584438518888971
+11380,ASFC Buzau (2016-2025),Romania,RO1,Outros,0.0005572262858178076
+3062,Athens Kallithea,Greece,GR1,Outros,0.0005554770573193607
+2761,FK Haugesund,Norway,NO1,Outros,0.00055310520905215
+22431,Stal Mielec,Poland,PL1,Outros,0.0005512003175896632
+316,Grazer AK 1902,Austria,A1,Outros,0.0005507644301671624
+81401,SC Poltava,Ukraine,UKR1,Outros,0.0005476166292554483
+4645,FK Radnicki 1923 Kragujevac,Serbia,SER1,Outros,0.0005447689302451447
+2817,Strømsgodset IF,Norway,NO1,Outros,0.0005438149747824721
+6,Adanaspor,Türkiye,TR1,Outros,0.0005358469213867508
+1147,AC Ajaccio,France,FR1,Top 5 Europa,0.0005342699707322931
+2999,Hamilton Academical FC,Scotland,SC1,Outros,0.0005295547256651873
+75231,Dinamo Makhachkala,Russia,RU1,Outros,0.0005270645755941054
+59358,FK Zeleznicar Pancevo,Serbia,SER1,Outros,0.0005268051396013281
+1423,Valenciennes FC,France,FR1,Top 5 Europa,0.0005242129619824498
+6110,Korona Kielce,Poland,PL1,Outros,0.0005211421985840449
+6399,Sandefjord Fotball,Norway,NO1,Outros,0.0005208223640316205
+5202,Västerås Sportklubb FK,Sweden,SE1,Outros,0.0005146592948508889
+1434,SC Telstar,Netherlands,NL1,Outros,0.0005143488593394996
+4128,Amkar Perm,Russia,RU1,Outros,0.0005095574756628266
+2446,WSG Tirol,Austria,A1,Outros,0.0005094306346571475
+2715,RFC Seraing,Belgium,BE1,Outros,0.0005090306571638384
+595,SC Bastia,France,FR1,Top 5 Europa,0.0005075645249853437
+642,De Graafschap Doetinchem,Netherlands,NL1,Outros,0.0005074572786747862
+5818,Hobro IK,Denmark,DK1,Outros,0.0005024508356775127
+1321,SK Dynamo Ceske Budejovice,Czech Republic,TS1,Outros,0.0004992276504911905
+1159,AS Nancy-Lorraine,France,FR1,Top 5 Europa,0.0004981035468019717
+2457,B SAD,Portugal,PO1,Outros,0.0004953389309013014
+40426,FC Tosno (-2018),Russia,RU1,Outros,0.0004947191689651509
+7136,Envigado FC,Colombia,COL1,América do Sul,0.0004944503193360844
+118373,Auckland FC,Australia,AUS1,Outros,0.00048438353257127193
+71084,Western United FC,Australia,AUS1,Outros,0.00048280180189318915
+993,Córdoba CF,Spain,ES1,Top 5 Europa,0.0004796476478944828
+39722,Erzurumspor FK,Türkiye,TR1,Outros,0.00047939847969104667
+1085,Vitória Setúbal FC,Portugal,PO1,Outros,0.0004792727871741532
+4102,AC Carpi,Italy,IT1,Top 5 Europa,0.00047591086525297264
+223,HNK Sibenik,Croatia,KR1,Outros,0.00047377093187132467
+19771,Akhisarspor,Türkiye,TR1,Outros,0.0004732620331249275
+6414,Metalist Kharkiv (- 2016),Ukraine,UKR1,Outros,0.00047129602665462475
+5545,FC Zlin,Czech Republic,TS1,Outros,0.00046948641526123986
+4482,Volyn Lutsk,Ukraine,UKR1,Outros,0.0004683314905449846
+3641,Degerfors IF,Sweden,SE1,Outros,0.0004673931032777905
+2157,FC Blau-Weiss Linz,Austria,A1,Outros,0.0004628388092613333
+1011,Halmstads BK,Sweden,SE1,Outros,0.0004618749305972097
+498,KSC Lokeren (- 2020),Belgium,BE1,Outros,0.00046060535423531404
+28893,Puszcza Niepolomice,Poland,PL1,Outros,0.00045759223898927514
+3901,RAAL La Louvière,Belgium,BE1,Outros,0.00045631854736586806
+128,AO Xanthi,Greece,GR1,Outros,0.0004552902125305392
+2079,Veria NPS,Greece,GR1,Outros,0.00044993531121558254
+39536,Al-Orobah FC,Saudi Arabia,SA1,Outros,0.0004379453145506544
+1506,Kardemir Karabükspor,Türkiye,TR1,Outros,0.00043710946754646116
+14680,Unión Magdalena,Colombia,COL1,América do Sul,0.0004324268285441649
+2990,Académica Coimbra,Portugal,PO1,Outros,0.0004322818982840286
+1210,US Livorno 1915,Italy,IT1,Top 5 Europa,0.0004311718603610842
+1627,Catania FC,Italy,IT1,Top 5 Europa,0.0004234196229509137
+3527,Motor Lublin Spółka Akcyjna,Poland,PL1,Outros,0.0004230449913450044
+1387,Siena FC,Italy,IT1,Top 5 Europa,0.0004225578299629225
+825,Eskisehirspor,Türkiye,TR1,Outros,0.000418974280848075
+1894,Hvidovre IF,Denmark,DK1,Outros,0.0004163935626176144
+10511,CA San Martín (San Juan),Argentina,ARG1,América do Sul,0.00040460613272396534
+5572,Niki Volou,Greece,GR1,Outros,0.00039996312277234733
+3622,IFK Värnamo,Sweden,SE1,Outros,0.00039865766514134225
+204,Lierse SK (- 2018),Belgium,BE1,Outros,0.0003883986040382503
+14649,Boyacá Chicó FC,Colombia,COL1,América do Sul,0.00038589851023139037
+9007,Arsenal Kyiv,Ukraine,UKR1,Outros,0.0003824171821749286
+21957,AO Platanias,Greece,GR1,Outros,0.00037624188944253983
+4750,SC Olhanense,Portugal,PO1,Outros,0.00037277439536555874
+28760,SK Austria Klagenfurt,Austria,A1,Outros,0.00037057220443159654
+19775,Asociación de Fomento Deportivo Riestra Barrio Colón,Argentina,ARG1,América do Sul,0.0003697856288903283
+5220,GS Ergotelis,Greece,GR1,Outros,0.0003686459248386743
+339,Dnipro Dnipropetrovsk (-2020),Ukraine,UKR1,Outros,0.000368439479473057
+22110,FC Helsingör,Denmark,DK1,Outros,0.00036689263469472805
+3558,GFC Ajaccio,France,FR1,Top 5 Europa,0.0003646756330641909
+1236,Östers IF,Sweden,SE1,Outros,0.00036301747988892914
+456,HNK Vukovar 1991,Croatia,KR1,Outros,0.00035513944610627874
+7009,Göteborgs Atlet- och Idrottssällskap,Sweden,SE1,Outros,0.00034971427588612405
+2375,Altay SK,Türkiye,TR1,Outros,0.00034702760795549353
+6894,Kayseri Erciyesspor,Türkiye,TR1,Outros,0.00034428647624805875
+14171,Thonon Évian Grand Genève FC,France,FR1,Top 5 Europa,0.00033939305130861893
+11126,Mordovia Saransk (-2020),Russia,RU1,Outros,0.00032951686964418736
+524,Gaziantepspor (- 2020),Türkiye,TR1,Outros,0.0003278916854007653
+2292,Elazigspor,Türkiye,TR1,Outros,0.0003249772701394455
+16247,PFK Stal Kamyanske (-2018),Ukraine,UKR1,Outros,0.0003247650170211967
+1057,Bryne FK,Norway,NO1,Outros,0.0003225937078417498
+7185,Panthrakikos Komotini,Greece,GR1,Outros,0.0003184400795317705
+3336,Desportivo Aves (- 2020),Portugal,PO1,Outros,0.0003167447783037452
+1436,SC Beira-Mar,Portugal,PO1,Outros,0.00031521167068840333
+2439,Kuban Krasnodar (-2018),Russia,RU1,Outros,0.0003144904814197219
+20698,Balikesirspor,Türkiye,TR1,Outros,0.0002963518762285998
+976,CF União Madeira (-2021),Portugal,PO1,Outros,0.00028165345912493125
+36922,FK Tekstilac Odzaci,Serbia,SER1,Outros,0.0002790100791621098
+3327,FC Penafiel,Portugal,PO1,Outros,0.00026062829534166296
+2703,Spartak Vladikavkaz (-2020),Russia,RU1,Outros,0.000259637972320884
+5219,AOK Kerkyra,Greece,GR1,Outros,0.00025125198073905304
+2783,Metalurg Donetsk (- 2015),Ukraine,UKR1,Outros,0.00024472071197925466
+20100,FC Vestsjaelland,Denmark,DK1,Outros,0.00023936002207186174
+20887,FK Jedinstvo Ub,Serbia,SER1,Outros,0.00023202009438144146
+12438,Volga Nizhniy Novgorod (- 2016),Russia,RU1,Outros,0.0002275117780145042
+16245,FK Sevastopol (- 2014),Ukraine,UKR1,Outros,0.00022515640449166232
+8838,Zirka Kropyvnytskyi,Ukraine,UKR1,Outros,0.00022407651750770547
+28956,AEL Kalloni,Greece,GR1,Outros,0.00021598969419766716
+37255,FK Csikszereda Miercurea Ciuc,Romania,RO1,Outros,0.00021010682743005768
+3216,Mersin Talimyurdu SK,Türkiye,TR1,Outros,0.00020810042094876528
+6994,Metalurg Zaporizhya (-2016),Ukraine,UKR1,Outros,0.000206200491287911
+6996,Goverla Uzhgorod (- 2016),Ukraine,UKR1,Outros,0.000206200491287911
+566,Beerschot AC,Belgium,BE1,Outros,0.00020387262766588044
+2227,SK Tavriya Simferopol ( - 2022),Ukraine,UKR1,Outros,0.0001884422110552764
+1411,RAEC Mons (- 2015),Belgium,BE1,Outros,0.0001884422110552764
+2323,Orduspor,Türkiye,TR1,Outros,0.0001884422110552764

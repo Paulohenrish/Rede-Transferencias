@@ -1,0 +1,797 @@
+clube_id,nome,pais,liga,regiao
+10,Arminia Bielefeld,Germany,L1,Top 5 Europa
+10004,Paris FC,France,FR1,Top 5 Europa
+10010,Esporte Clube Bahia,Brazil,BRA1,América do Sul
+1003,Leicester City,England,GB1,Top 5 Europa
+1005,US Lecce,Italy,IT1,Top 5 Europa
+10090,Asociación Deportivo Pasto,Colombia,COL1,América do Sul
+10093,Independiente Medellín,Colombia,COL1,América do Sul
+1010,Watford FC,England,GB1,Top 5 Europa
+1011,Halmstads BK,Sweden,SE1,Outros
+10217,Sarpsborg 08 Fotballforening,Norway,NO1,Outros
+1022,Cerezo Osaka,Japan,JAP1,Outros
+1023,Sociedade Esportiva Palmeiras,Brazil,BRA1,América do Sul
+1025,Bologna Football Club 1909,Italy,IT1,Top 5 Europa
+1029,Club Atlético Vélez Sársfield,Argentina,ARG1,América do Sul
+1030,Asociación Atlética Argentinos Juniors,Argentina,ARG1,América do Sul
+1031,Luton Town,England,GB1,Top 5 Europa
+1032,Reading FC,England,GB1,Top 5 Europa
+1038,UC Sampdoria,Italy,IT1,Top 5 Europa
+1039,Queens Park Rangers,England,GB1,Top 5 Europa
+1041,Olympique Lyon,France,FR1,Top 5 Europa
+1044,Djurgårdens Idrottsförening,Sweden,SE1,Outros
+1047,Como 1907,Italy,IT1,Top 5 Europa
+10484,Kasimpasa,Türkiye,TR1,Outros
+1049,Valencia CF,Spain,ES1,Top 5 Europa
+10492,Esporte Clube Juventude,Brazil,BRA1,América do Sul
+105,SV Darmstadt 98,Germany,L1,Top 5 Europa
+1050,Villarreal CF,Spain,ES1,Top 5 Europa
+10503,Deportes Tolima,Colombia,COL1,América do Sul
+10511,CA San Martín (San Juan),Argentina,ARG1,América do Sul
+1053,Aalborg BK,Denmark,DK1,Outros
+1057,Bryne FK,Norway,NO1,Outros
+1059,Hammarby IF,Sweden,SE1,Outros
+1061,Los Angeles Galaxy,United States,MLS1,Outros
+1062,S-Pulse,Japan,JAP1,Outros
+1063,Viborg FF,Denmark,DK1,Outros
+1066,Nagoya Grampus Eight,Japan,JAP1,Outros
+10690,Zorya Lugansk,Ukraine,UKR1,Outros
+1071,Wigan Athletic,England,GB1,Top 5 Europa
+1075,SC Braga,Portugal,PO1,Outros
+1082,LOSC Lille,France,FR1,Top 5 Europa
+1083,FK Rostov,Russia,RU1,Outros
+1084,Málaga CF,Spain,ES1,Top 5 Europa
+1085,Vitória Setúbal FC,Portugal,PO1,Outros
+10870,Fortaleza Esporte Clube,Brazil,BRA1,América do Sul
+1090,AZ Alkmaar,Netherlands,NL1,Outros
+1091,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,Greece,GR1,Outros
+1092,Idrottsföreningen  Brommapojkarna,Sweden,SE1,Outros
+1095,ESTAC Troyes,France,FR1,Top 5 Europa
+1096,Royal Antwerp FC,Belgium,BE1,Outros
+10997,Clube do Remo,Brazil,BRA1,América do Sul
+11,Arsenal FC,England,GB1,Top 5 Europa
+1100,Sportsklubben Brann,Norway,NO1,Outros
+1101,Idrottsföreningen Elfsborg,Sweden,SE1,Outros
+110302,Avs Futebol,Portugal,PO1,Outros
+1106,Club de Gimnasia y Esgrima La Plata,Argentina,ARG1,América do Sul
+1108,Deportivo Alavés,Spain,ES1,Top 5 Europa
+1109,BK Häcken,Sweden,SE1,Outros
+1110,Huddersfield Town,England,GB1,Top 5 Europa
+11126,Mordovia Saransk (-2020),Russia,RU1,Outros
+11127,Ural Yekaterinburg,Russia,RU1,Outros
+1114,Al-Hilal Saudi Football Club,Saudi Arabia,SA1,Outros
+11141,Toronto FC,United States,MLS1,Outros
+1118,Örgryte IS,Sweden,SE1,Outros
+11194,NK Lokomotiva Zagreb,Croatia,KR1,Outros
+1123,Norwich City,England,GB1,Top 5 Europa
+1124,Fakel Voronezh,Russia,RU1,Outros
+11282,Alanyaspor,Türkiye,TR1,Outros
+1132,Burnley FC,England,GB1,Top 5 Europa
+11380,ASFC Buzau (2016-2025),Romania,RO1,Outros
+114,Beşiktaş Jimnastik Kulübü,Türkiye,TR1,Outros
+1146,Club Necaxa,Mexico,MEX1,Outros
+1147,AC Ajaccio,France,FR1,Top 5 Europa
+1148,Brentford FC,England,GB1,Top 5 Europa
+114977,San Diego Football Club,United States,MLS1,Outros
+1158,FC Lorient,France,FR1,Top 5 Europa
+1159,AS Nancy-Lorraine,France,FR1,Top 5 Europa
+1160,Nîmes Olympique,France,FR1,Top 5 Europa
+1162,SM Caen,France,FR1,Top 5 Europa
+11648,Independiente Santa Fe,Colombia,COL1,América do Sul
+11688,Giresunspor,Türkiye,TR1,Outros
+1177,Silkeborg IF,Denmark,DK1,Outros
+11831,Club Atlético Tigre,Argentina,ARG1,América do Sul
+118373,Auckland FC,Australia,AUS1,Outros
+1184,KRC Genk,Belgium,BE1,Outros
+11854,Junior FC,Colombia,COL1,América do Sul
+1186,Torpedo Moscow,Russia,RU1,Outros
+1191,Falkirk FC,Scotland,SC1,Outros
+12,Associazione Sportiva Roma,Italy,IT1,Top 5 Europa
+120,Kocaelispor,Türkiye,TR1,Outros
+121,FK Dinamo Moskva,Russia,RU1,Outros
+1210,US Livorno 1915,Italy,IT1,Top 5 Europa
+12179,Club Sportivo Independiente Rivadavia,Argentina,ARG1,América do Sul
+122,Sportklub Puntigamer Sturm Graz,Austria,A1,Outros
+12301,Club Atlético Aldosivi,Argentina,ARG1,América do Sul
+12321,Girona FC,Spain,ES1,Top 5 Europa
+1234,Club Atlético Independiente de Avellaneda,Argentina,ARG1,América do Sul
+1236,Östers IF,Sweden,SE1,Outros
+1237,Brighton & Hove Albion,England,GB1,Top 5 Europa
+124,Rangers FC,Scotland,SC1,Outros
+1241,Livingston FC,Scotland,SC1,Outros
+12438,Volga Nizhniy Novgorod (- 2016),Russia,RU1,Outros
+1244,CD Leganés,Spain,ES1,Top 5 Europa
+1245,KAS Eupen,Belgium,BE1,Outros
+12454,Club Atlético Sarmiento,Argentina,ARG1,América do Sul
+1247,Colorado Rapids,United States,MLS1,Outros
+12574,CD Godoy Cruz Antonio Tomba,Argentina,ARG1,América do Sul
+126,Caykur Rizespor,Türkiye,TR1,Outros
+1268,ADO Den Haag,Netherlands,NL1,Outros
+1269,PEC Zwolle,Netherlands,NL1,Outros
+127,SC Paderborn 07,Germany,L1,Top 5 Europa
+128,AO Xanthi,Greece,GR1,Outros
+1283,FC Emmen,Netherlands,NL1,Outros
+1286,Club Atlético Newell’s Old Boys,Argentina,ARG1,América do Sul
+1293,Tromsø Idrettslag,Norway,NO1,Outros
+13,Atlético de Madrid,Spain,ES1,Top 5 Europa
+130,Parma Calcio 1913,Italy,IT1,Top 5 Europa
+1301,CS Marítimo,Portugal,PO1,Outros
+1304,Heracles Almelo,Netherlands,NL1,Outros
+131,FC Barcelona,Spain,ES1,Top 5 Europa
+132,NAC Breda,Netherlands,NL1,Outros
+1321,SK Dynamo Ceske Budejovice,Czech Republic,TS1,Outros
+1322,FK Jablonec,Czech Republic,TS1,Outros
+133,SC Cambuur Leeuwarden,Netherlands,NL1,Outros
+13353,Club Tijuana,Mexico,MEX1,Outros
+13726,MFK Karvina,Czech Republic,TS1,Outros
+1387,Siena FC,Italy,IT1,Top 5 Europa
+1390,Cagliari Calcio,Italy,IT1,Top 5 Europa
+14,Austria Vienna,Austria,A1,Outros
+1403,Santos Laguna,Mexico,MEX1,Outros
+141,Galatasaray,Türkiye,TR1,Outros
+1411,RAEC Mons (- 2015),Belgium,BE1,Outros
+1416,Amiens SC,France,FR1,Top 5 Europa
+14171,Thonon Évian Grand Genève FC,France,FR1,Top 5 Europa
+1418,Club Atlético Rosario Central,Argentina,ARG1,América do Sul
+142,Real Zaragoza,Spain,ES1,Top 5 Europa
+1420,Angers SCO,France,FR1,Top 5 Europa
+1421,Stade Reims,France,FR1,Top 5 Europa
+1423,Valenciennes FC,France,FR1,Top 5 Europa
+1426,VVV-Venlo,Netherlands,NL1,Outros
+1429,Cesena FC,Italy,IT1,Top 5 Europa
+1434,SC Telstar,Netherlands,NL1,Outros
+1435,Go Ahead Eagles,Netherlands,NL1,Outros
+1436,SC Beira-Mar,Portugal,PO1,Outros
+144,HNK Rijeka,Croatia,KR1,Outros
+1444,Racing Club Asociación Civil de Avellaneda,Argentina,ARG1,América do Sul
+1455,FC Dordrecht,Netherlands,NL1,Outros
+14554,Club Atlético Tucumán,Argentina,ARG1,América do Sul
+14589,FC Orenburg,Russia,RU1,Outros
+14602,Asociación Atlética Estudiantes,Argentina,ARG1,América do Sul
+14649,Boyacá Chicó FC,Colombia,COL1,América do Sul
+1465,GD Estoril Praia,Portugal,PO1,Outros
+1467,Göztepe,Türkiye,TR1,Outros
+14680,Unión Magdalena,Colombia,COL1,América do Sul
+14687,Club Atlético Gimnasia y Esgrima de Mendoza,Argentina,ARG1,América do Sul
+148,Tottenham Hotspur,England,GB1,Top 5 Europa
+1496,FK Pardubice,Czech Republic,TS1,Outros
+15,Bayer 04 Leverkusen,Germany,L1,Top 5 Europa
+150,Real Betis Balompié,Spain,ES1,Top 5 Europa
+1506,Kardemir Karabükspor,Türkiye,TR1,Outros
+1519,Dundee United FC,Scotland,SC1,Outros
+152,Samsunspor,Türkiye,TR1,Outros
+15276,FK Spartak Subotica,Serbia,SER1,Outros
+1531,Elche CF,Spain,ES1,Top 5 Europa
+1533,SD Eibar,Spain,ES1,Top 5 Europa
+157,KAA Gent,Belgium,BE1,Outros
+159,Red Star Belgrade,Serbia,SER1,Outros
+15906,Termalica Bruk-Bet Nieciecza Klub Sportowy,Poland,PL1,Outros
+16,Borussia Dortmund,Germany,L1,Top 5 Europa
+162,AS Monaco,France,FR1,Top 5 Europa
+16239,Desna Chernigiv,Ukraine,UKR1,Outros
+16245,FK Sevastopol (- 2014),Ukraine,UKR1,Outros
+16247,PFK Stal Kamyanske (-2018),Ukraine,UKR1,Outros
+1627,Catania FC,Italy,IT1,Top 5 Europa
+167,FC Augsburg,Germany,L1,Top 5 Europa
+16704,FK Krasnodar,Russia,RU1,Outros
+16795,Granada CF,Spain,ES1,Top 5 Europa
+168,Zaglebie Lubin,Poland,PL1,Outros
+169,Panionios Athens,Greece,GR1,Outros
+170,Rapid Vienna,Austria,A1,Outros
+172,Royal Charleroi Sporting Club,Belgium,BE1,Outros
+17209,Al-Wehda FC,Saudi Arabia,SA1,Outros
+173,Odense Boldklub,Denmark,DK1,Outros
+17425,Internacional de Bogotá,Colombia,COL1,América do Sul
+1775,Club Atlético San Lorenzo de Almagro,Argentina,ARG1,América do Sul
+17776,Associação Chapecoense de Futebol,Brazil,BRA1,América do Sul
+18,Borussia Mönchengladbach,Germany,L1,Top 5 Europa
+180,Southampton FC,England,GB1,Top 5 Europa
+1804,Deportivo Toluca,Mexico,MEX1,Outros
+18105,PFK Lviv,Ukraine,UKR1,Outros
+1829,Instituto Atlético Central Córdoba,Argentina,ARG1,América do Sul
+18303,FC Oleksandriya,Ukraine,UKR1,Outros
+18487,Al-Ahli Saudi Football Club,Saudi Arabia,SA1,Outros
+18544,Al-Nassr Football Club,Saudi Arabia,SA1,Outros
+189,Club Atlético Boca Juniors,Argentina,ARG1,América do Sul
+1894,Hvidovre IF,Denmark,DK1,Outros
+1897,FC Hradec Kralove,Czech Republic,TS1,Outros
+19,Brescia Calcio,Italy,IT1,Top 5 Europa
+190,FC Copenhagen,Denmark,DK1,Outros
+192,Roda JC Kerkrade,Netherlands,NL1,Outros
+195,Rosenborg Ballklub,Norway,NO1,Outros
+19657,Vendsyssel FF,Denmark,DK1,Outros
+19684,Jeju SK Football Club,"Korea, South",RSK1,Outros
+197,AC Sparta Prague,Czech Republic,TS1,Outros
+19771,Akhisarspor,Türkiye,TR1,Outros
+19775,Asociación de Fomento Deportivo Riestra Barrio Colón,Argentina,ARG1,América do Sul
+19789,Yeni Malatyaspor,Türkiye,TR1,Outros
+199,Sport Club Corinthians Paulista,Brazil,BRA1,América do Sul
+20,Bursaspor,Türkiye,TR1,Outros
+200,FC Utrecht,Netherlands,NL1,Outros
+20100,FC Vestsjaelland,Denmark,DK1,Outros
+202,FC Groningen,Netherlands,NL1,Outros
+2029,Ceará Sporting Club,Brazil,BRA1,América do Sul
+2036,1. Fußballclub Heidenheim 1846,Germany,L1,Top 5 Europa
+204,Lierse SK (- 2018),Belgium,BE1,Outros
+20590,Rionegro Águilas,Colombia,COL1,América do Sul
+206,Bröndby IF,Denmark,DK1,Outros
+2063,Club Atlético Huracán,Argentina,ARG1,América do Sul
+20698,Balikesirspor,Türkiye,TR1,Outros
+2079,Veria NPS,Greece,GR1,Outros
+20887,FK Jedinstvo Ub,Serbia,SER1,Outros
+209,Club Atlético River Plate,Argentina,ARG1,América do Sul
+210,Grêmio Foot-Ball Porto Alegrense,Brazil,BRA1,América do Sul
+21101,Kristiansund Ballklubb,Norway,NO1,Outros
+2118,Wisla Plock,Poland,PL1,Outros
+2125,Esporte Clube Vitória,Brazil,BRA1,América do Sul
+21459,Gangwon Football Club,"Korea, South",RSK1,Outros
+2157,FC Blau-Weiss Linz,Austria,A1,Outros
+218,San Jose Earthquakes,United States,MLS1,Outros
+21957,AO Platanias,Greece,GR1,Outros
+21975,Football Club Mito HollyHock,Japan,JAP1,Outros
+221,Santos Futebol Clube,Brazil,BRA1,América do Sul
+22110,FC Helsingör,Denmark,DK1,Outros
+22171,Fagiano Okayama Sports Club,Japan,JAP1,Outros
+2227,SK Tavriya Simferopol ( - 2022),Ukraine,UKR1,Outros
+223,HNK Sibenik,Croatia,KR1,Outros
+22381,Al-Raed SFC,Saudi Arabia,SA1,Outros
+2239,US Cremonese,Italy,IT1,Top 5 Europa
+2241,Kashima Antlers FC,Japan,JAP1,Outros
+22431,Stal Mielec,Poland,PL1,Outros
+2282,Club Brugge KV,Belgium,BE1,Outros
+2288,Swansea City,England,GB1,Top 5 Europa
+22902,Alianza FC,Colombia,COL1,América do Sul
+2292,Elazigspor,Türkiye,TR1,Outros
+2293,Konyaspor,Türkiye,TR1,Outros
+23,Eintracht Braunschweig,Germany,L1,Top 5 Europa
+2300,Jagiellonia Bialystok,Poland,PL1,Outros
+2311,"SK Sigma Olomouc, a.s.",Czech Republic,TS1,Outros
+23184,KFUM-Kameratene Oslo,Norway,NO1,Outros
+232,FK Spartak Moskva,Russia,RU1,Outros
+2323,Orduspor,Türkiye,TR1,Outros
+234,Feyenoord Rotterdam,Netherlands,NL1,Outros
+235,RKC Waalwijk,Netherlands,NL1,Outros
+2350,Millonarios FC,Colombia,COL1,América do Sul
+2352,CD América de Cali,Colombia,COL1,América do Sul
+23568,Zelvia,Japan,JAP1,Outros
+23581,V-Varen Nagasaki,Japan,JAP1,Outros
+23611,Olimpik Donetsk,Ukraine,UKR1,Outros
+2362,Slaven Belupo Koprivnica,Croatia,KR1,Outros
+237,RCD Mallorca,Spain,ES1,Top 5 Europa
+2375,Altay SK,Türkiye,TR1,Outros
+238,Lech Poznan,Poland,PL1,Outros
+2381,Sivasspor,Türkiye,TR1,Outros
+23826,RB Leipzig,Germany,L1,Top 5 Europa
+239,Viking Fotballklubb,Norway,NO1,Outros
+24,Eintracht Frankfurt,Germany,L1,Top 5 Europa
+2402,Club Social y Deportivo Defensa y Justicia,Argentina,ARG1,América do Sul
+2407,CF Monterrey,Mexico,MEX1,Outros
+2410,PFK CSKA Moskva,Russia,RU1,Outros
+2414,AC Horsens,Denmark,DK1,Outros
+2417,Club Atlético Belgrano,Argentina,ARG1,América do Sul
+242,FC Winterthur,Switzerland,C1,Outros
+2420,Vitória Guimarães SC,Portugal,PO1,Outros
+2423,CD Santa Clara,Portugal,PO1,Outros
+2424,Gil Vicente FC,Portugal,PO1,Outros
+24245,Ümraniyespor,Türkiye,TR1,Outros
+2425,Rio Ave FC,Portugal,PO1,Outros
+2431,CF Estrela Amadora,Portugal,PO1,Outros
+2439,Kuban Krasnodar (-2018),Russia,RU1,Outros
+244,Olympique Marseille,France,FR1,Top 5 Europa
+2440,D.C. United,United States,MLS1,Outros
+2441,Athlitiki Enosi Konstantinoupoleos,Greece,GR1,Outros
+2446,WSG Tirol,Austria,A1,Outros
+2448,Sporting Gijón,Spain,ES1,Top 5 Europa
+2451,Inverness Caledonian Thistle FC,Scotland,SC1,Outros
+2457,B SAD,Portugal,PO1,Outros
+24575,HNK Gorica,Croatia,KR1,Outros
+2462,Fluminense Football Club,Brazil,BRA1,América do Sul
+2477,Karpaty Lviv (-2021),Ukraine,UKR1,Outros
+2497,Real Oviedo,Spain,ES1,Top 5 Europa
+2503,Boavista FC,Portugal,PO1,Outros
+25184,Club Atlético Barracas Central,Argentina,ARG1,América do Sul
+252,Genoa CFC,Italy,IT1,Top 5 Europa
+2521,FC Alverca,Portugal,PO1,Outros
+25467,Philadelphia Union,United States,MLS1,Outros
+255,Legia Warszawa,Poland,PL1,Outros
+2553,Kilmarnock FC,Scotland,SC1,Outros
+25580,Melbourne City FC,Australia,AUS1,Outros
+257,FC St. Gallen 1879,Switzerland,C1,Outros
+2578,St. Johnstone FC,Scotland,SC1,Outros
+26,FC Basel 1893,Switzerland,C1,Outros
+260,FC Zürich,Switzerland,C1,Outros
+26069,Al-Qadsiah Saudi Football Club,Saudi Arabia,SA1,Outros
+26459,NK Veres Rivne,Ukraine,UKR1,Outros
+265,Panathinaikos Athlitikos Omilos,Greece,GR1,Outros
+266,SV Ried,Austria,A1,Outros
+267,Idrettsklubben Start,Norway,NO1,Outros
+2671,PAS Giannina,Greece,GR1,Outros
+2672,APO Levadiakos Football Club,Greece,GR1,Outros
+2687,Cádiz CF,Spain,ES1,Top 5 Europa
+269,Holstein Kiel,Germany,L1,Top 5 Europa
+2696,PFK Krylya Sovetov Samara,Russia,RU1,Outros
+2697,Sanfrecce Hiroshima,Japan,JAP1,Outros
+2698,FC Rubin Kazan,Russia,RU1,Outros
+27,Bayern Munich,Germany,L1,Top 5 Europa
+2700,Anzhi Makhachkala ( -2022),Russia,RU1,Outros
+2703,Spartak Vladikavkaz (-2020),Russia,RU1,Outros
+2715,RFC Seraing,Belgium,BE1,Outros
+2719,Mjällby Almänna Idrottsförening,Sweden,SE1,Outros
+272,Allmänna Idrottsklubben,Sweden,SE1,Outros
+2722,SPAL,Italy,IT1,Top 5 Europa
+27221,Al-Fateh Club,Saudi Arabia,SA1,Outros
+2727,Oud-Heverlee Leuven,Belgium,BE1,Outros
+273,Stade Rennais FC,France,FR1,Top 5 Europa
+2740,Vorskla Poltava,Ukraine,UKR1,Outros
+2741,FK Baltika,Russia,RU1,Outros
+2759,Ross County FC,Scotland,SC1,Outros
+276,Hellas Verona,Italy,IT1,Top 5 Europa
+2760,Partick Thistle FC,Scotland,SC1,Outros
+2761,FK Haugesund,Norway,NO1,Outros
+2778,FC Nordsjaelland,Denmark,DK1,Outros
+2783,Metalurg Donetsk (- 2015),Ukraine,UKR1,Outros
+2790,FC Lugano,Switzerland,C1,Outros
+28095,FK Ufa,Russia,RU1,Outros
+281,Manchester City,England,GB1,Top 5 Europa
+2817,Strømsgodset IF,Norway,NO1,Outros
+2832,Gaziantep FK,Türkiye,TR1,Outros
+2844,IFK Norrköping,Sweden,SE1,Outros
+2861,KV Oostende,Belgium,BE1,Outros
+28643,SK Beveren,Belgium,BE1,Outros
+28760,SK Austria Klagenfurt,Austria,A1,Outros
+288,Club Estudiantes de La Plata,Argentina,ARG1,América do Sul
+28844,Al-Taawoun Football Club,Saudi Arabia,SA1,Outros
+28893,Puszcza Niepolomice,Poland,PL1,Outros
+289,Sunderland AFC,England,GB1,Top 5 Europa
+28956,AEL Kalloni,Greece,GR1,Outros
+29,Everton FC,England,GB1,Top 5 Europa
+290,AJ Auxerre,France,FR1,Top 5 Europa
+2919,AC Monza,Italy,IT1,Top 5 Europa
+2921,Delfino Pescara 1936,Italy,IT1,Top 5 Europa
+29228,Royal Excel Mouscron (-2022),Belgium,BE1,Outros
+294,SL Benfica,Portugal,PO1,Outros
+2944,Ankaraspor,Türkiye,TR1,Outros
+2969,Dijon FCO,France,FR1,Top 5 Europa
+29700,AFC Unirea 04 Slobozia,Romania,RO1,Outros
+29831,FCV Farul Constanta,Romania,RO1,Outros
+2990,Académica Coimbra,Portugal,PO1,Outros
+2995,FC Paços de Ferreira,Portugal,PO1,Outros
+2996,Incheon United Football Club,"Korea, South",RSK1,Outros
+2999,Hamilton Academical FC,Scotland,SC1,Outros
+3,1.FC Köln,Germany,L1,Top 5 Europa
+3008,Hull City,England,GB1,Top 5 Europa
+301,FCSB,Romania,RO1,Outros
+30120,Athlitiki Enosi Kifisias,Greece,GR1,Outros
+3057,Standard Liège,Belgium,BE1,Outros
+306,SC Heerenveen,Netherlands,NL1,Outros
+3060,APS Atromitos Athinon,Greece,GR1,Outros
+3062,Athens Kallithea,Greece,GR1,Outros
+30925,Gwangju Football Club,"Korea, South",RSK1,Outros
+31,Liverpool FC,England,GB1,Top 5 Europa
+31008,Al-Riyadh Saudi Club,Saudi Arabia,SA1,Outros
+311,Football Club Pohang Steelers,"Korea, South",RSK1,Outros
+312,FC Dinamo 1948,Romania,RO1,Outros
+31284,Club Atlético Central Córdoba,Argentina,ARG1,América do Sul
+3137,FK TSC Backa Topola,Serbia,SER1,Outros
+316,Grazer AK 1902,Austria,A1,Outros
+31622,Suwon FC,"Korea, South",RSK1,Outros
+317,FC Twente Enschede,Netherlands,NL1,Outros
+32041,Fortaleza CEIF,Colombia,COL1,América do Sul
+3205,Kayserispor,Türkiye,TR1,Outros
+3209,Pendikspor,Türkiye,TR1,Outros
+321,FC Sion,Switzerland,C1,Outros
+32113,FK IMT Belgrad,Serbia,SER1,Outros
+3216,Mersin Talimyurdu SK,Türkiye,TR1,Outros
+322,Yverdon Sport FC,Switzerland,C1,Outros
+32328,Al-Najma Sport Club,Saudi Arabia,SA1,Outros
+324,Pogon Szczecin,Poland,PL1,Outros
+3268,Casa Pia AC,Portugal,PO1,Outros
+327,NK Osijek,Croatia,KR1,Outros
+33,FC Schalke 04,Germany,L1,Top 5 Europa
+330,Clube Atlético Mineiro,Brazil,BRA1,América do Sul
+3302,UD Almería,Spain,ES1,Top 5 Europa
+331,CA Osasuna,Spain,ES1,Top 5 Europa
+3325,GD Chaves,Portugal,PO1,Outros
+3327,FC Penafiel,Portugal,PO1,Outros
+3329,FC Famalicão,Portugal,PO1,Outros
+333,Club Atlético Lanús,Argentina,ARG1,América do Sul
+33328,FK Radnik Surdulica,Serbia,SER1,Outros
+3336,Desportivo Aves (- 2020),Portugal,PO1,Outros
+3349,CD Feirense,Portugal,PO1,Outros
+336,Sporting CP,Portugal,PO1,Outros
+3368,Levante UD,Spain,ES1,Top 5 Europa
+338,Dynamo Kyiv,Ukraine,UKR1,Outros
+3385,Panserraikos Serres,Greece,GR1,Outros
+339,Dnipro Dnipropetrovsk (-2020),Ukraine,UKR1,Outros
+33966,ACSM Politehnica Iasi,Romania,RO1,Outros
+3426,Esbjerg fB,Denmark,DK1,Outros
+347,FC Metz,France,FR1,Top 5 Europa
+34911,Neom Sports Club,Saudi Arabia,SA1,Outros
+35,FC St. Pauli,Germany,L1,Top 5 Europa
+350,Sheffield United,England,GB1,Top 5 Europa
+3508,Zulte Waregem,Belgium,BE1,Outros
+3522,Spezia Calcio,Italy,IT1,Top 5 Europa
+3524,Clermont Foot 63,France,FR1,Top 5 Europa
+3527,Motor Lublin Spółka Akcyjna,Poland,PL1,Outros
+353,Lillestrøm Sportsklubb,Norway,NO1,Outros
+3535,Ulsan Hyundai Football Club,"Korea, South",RSK1,Outros
+354,KV Mechelen,Belgium,BE1,Outros
+3551,Sportclub Rheindorf Altach,Austria,A1,Outros
+3558,GFC Ajaccio,France,FR1,Top 5 Europa
+35759,Bucheon Football Club 1995,"Korea, South",RSK1,Outros
+3592,Kryvbas Kryvyi Rig,Ukraine,UKR1,Outros
+36,Fenerbahce,Türkiye,TR1,Outros
+3609,Rotor Volgograd,Russia,RU1,Outros
+36100,Western Sydney Wanderers,Australia,AUS1,Outros
+3622,IFK Värnamo,Sweden,SE1,Outros
+3631,CF América,Mexico,MEX1,Outros
+3641,Degerfors IF,Sweden,SE1,Outros
+3654,Kalmar Fotbollförening,Sweden,SE1,Outros
+366,Real Valladolid CF,Spain,ES1,Top 5 Europa
+367,Rayo Vallecano,Spain,ES1,Top 5 Europa
+368,Sevilla FC,Spain,ES1,Top 5 Europa
+369,Lyngby Boldklub,Denmark,DK1,Outros
+3690,SKA Khabarovsk,Russia,RU1,Outros
+3691,Tom Tomsk,Russia,RU1,Outros
+36922,FK Tekstilac Odzaci,Serbia,SER1,Outros
+370,Aberdeen FC,Scotland,SC1,Outros
+3709,Getafe CF,Spain,ES1,Top 5 Europa
+371,Celtic FC,Scotland,SC1,Outros
+3711,CD Cruz Azul,Mexico,MEX1,Outros
+3714,Enisey Krasnoyarsk,Russia,RU1,Outros
+3719,FC Khimki (-2025),Russia,RU1,Outros
+3725,RFK Akhmat Grozny,Russia,RU1,Outros
+37255,FK Csikszereda Miercurea Ciuc,Romania,RO1,Outros
+3729,Arsenal Tula,Russia,RU1,Outros
+3734,Tokyo Verdy,Japan,JAP1,Outros
+37624,FC Metaloglobus Bucharest,Romania,RO1,Outros
+377,FC Baník Ostrava a.s.,Czech Republic,TS1,Outros
+379,West Ham United,England,GB1,Top 5 Europa
+38,Fortuna Düsseldorf,Germany,L1,Top 5 Europa
+380,US Salernitana 1919,Italy,IT1,Top 5 Europa
+3828,Yokohama Marinos,Japan,JAP1,Outros
+383,PSV Eindhoven,Netherlands,NL1,Outros
+3837,Fredrikstad Fotballklubb,Norway,NO1,Outros
+3840,Adana Demirspor,Türkiye,TR1,Outros
+385,Fortuna Sittardia Combinatie,Netherlands,NL1,Outros
+38628,Llaneros FC,Colombia,COL1,América do Sul
+3876,Mirasol Futebol Clube,Brazil,BRA1,América do Sul
+38898,Football Club Anyang,"Korea, South",RSK1,Outros
+39,1.FSV Mainz 05,Germany,L1,Top 5 Europa
+3901,RAAL La Louvière,Belgium,BE1,Outros
+39097,Obolon Kyiv,Ukraine,UKR1,Outros
+3911,Stade Brestois 29,France,FR1,Top 5 Europa
+3938,Club Atlético Talleres,Argentina,ARG1,América do Sul
+3948,Union Saint-Gilloise,Belgium,BE1,Outros
+39536,Al-Orobah FC,Saudi Arabia,SA1,Outros
+3958,Rakuten Vissel Kobe,Japan,JAP1,Outros
+39722,Erzurumspor FK,Türkiye,TR1,Outros
+398,Società Sportiva Lazio S.p.A.,Italy,IT1,Top 5 Europa
+399,Leeds United,England,GB1,Top 5 Europa
+3999,PAS Lamia 1964,Greece,GR1,Outros
+4,1.FC Nuremberg,Germany,L1,Top 5 Europa
+40,FC Girondins Bordeaux,France,FR1,Top 5 Europa
+4000,Lechia Gdansk,Poland,PL1,Outros
+40058,New York City Football Club,United States,MLS1,Outros
+40188,Atlético de San Luis,Mexico,MEX1,Outros
+403,Willem II Tilburg,Netherlands,NL1,Outros
+4035,CF Pachuca,Mexico,MEX1,Outros
+40426,FC Tosno (-2018),Russia,RU1,Outros
+405,Aston Villa,England,GB1,Top 5 Europa
+4078,Club de Foot Montréal,United States,MLS1,Outros
+40812,Universitatea Craiova,Romania,RO1,Outros
+4083,FC Crotone,Italy,IT1,Top 5 Europa
+409,Fußballclub Red Bull Salzburg,Austria,A1,Outros
+41,Hamburger SV,Germany,L1,Top 5 Europa
+410,Udinese Calcio,Italy,IT1,Top 5 Europa
+4102,AC Carpi,Italy,IT1,Top 5 Europa
+41201,PFK Tambov (-2021),Russia,RU1,Outros
+41231,FK Sochi,Russia,RU1,Outros
+41274,Beerschot VA,Belgium,BE1,Outros
+41278,ACSC FC Arges,Romania,RO1,Outros
+4128,Amkar Perm,Russia,RU1,Outros
+413,LASK,Austria,A1,Outros
+415,FC Toulouse,France,FR1,Top 5 Europa
+416,Torino FC,Italy,IT1,Top 5 Europa
+417,OGC Nice,France,FR1,Top 5 Europa
+4171,Benevento Calcio,Italy,IT1,Top 5 Europa
+4172,Pisa Sporting Club,Italy,IT1,Top 5 Europa
+418,Real Madrid,Spain,ES1,Top 5 Europa
+419,GNK Dinamo Zagreb,Croatia,KR1,Outros
+42,Hannover 96,Germany,L1,Top 5 Europa
+428,Górnik Zabrze,Poland,PL1,Outros
+4284,Sporting Kansas City,United States,MLS1,Outros
+4291,Portland Timbers,United States,MLS1,Outros
+4294,SC Farense,Portugal,PO1,Outros
+43,Heart of Midlothian FC,Scotland,SC1,Outros
+430,ACF Fiorentina,Italy,IT1,Top 5 Europa
+4309,Hamarkameratene,Norway,NO1,Outros
+432,Chicago Fire Soccer Club,United States,MLS1,Outros
+434,FC Luzern,Switzerland,C1,Outros
+44,Hertha BSC,Germany,L1,Top 5 Europa
+44006,Bodrum FK,Türkiye,TR1,Outros
+441,Apollon Smyrnis,Greece,GR1,Outros
+443,Vejle Boldklub,Denmark,DK1,Outros
+4441,Wolfsberger AC,Austria,A1,Outros
+4467,TSV Hartberg,Austria,A1,Outros
+447,HNK Hajduk Split,Croatia,KR1,Outros
+448,FK Vojvodina Novi Sad,Serbia,SER1,Outros
+4482,Volyn Lutsk,Ukraine,UKR1,Outros
+449,Trabzonspor,Türkiye,TR1,Outros
+450,FK Dukla Prague,Czech Republic,TS1,Outros
+452,BSC Young Boys,Switzerland,C1,Outros
+455,FC Rapid 1923,Romania,RO1,Outros
+456,HNK Vukovar 1991,Croatia,KR1,Outros
+45604,Orlando City Soccer Club,United States,MLS1,Outros
+458,Palermo FC,Italy,IT1,Top 5 Europa
+46,Inter Milan,Italy,IT1,Top 5 Europa
+4603,Athlitiki Enosi Larisas,Greece,GR1,Outros
+4633,FK Novi Pazar,Serbia,SER1,Outros
+4645,FK Radnicki 1923 Kragujevac,Serbia,SER1,Outros
+465,St. Mirren FC,Scotland,SC1,Outros
+467,NEC Nijmegen,Netherlands,NL1,Outros
+468,Sparta Rotterdam,Netherlands,NL1,Outros
+47,Iraklis Thessaloniki,Greece,GR1,Outros
+472,UD Las Palmas,Spain,ES1,Top 5 Europa
+475,Sint-Truidense VV,Belgium,BE1,Outros
+4750,SC Olhanense,Portugal,PO1,Outros
+4795,FC Ingolstadt 04,Germany,L1,Top 5 Europa
+48332,Kolos Kovalivka,Ukraine,UKR1,Outros
+48726,Rukh Lviv,Ukraine,UKR1,Outros
+49283,FC Juárez,Mexico,MEX1,Outros
+49364,Ingulets Petrove,Ukraine,UKR1,Outros
+4941,Club León FC,Mexico,MEX1,Outros
+4959,SC Otelul Galati,Romania,RO1,Outros
+496,Malmö Fotbollförening,Sweden,SE1,Outros
+4961,Querétaro FC,Mexico,MEX1,Outros
+49702,FK Nizhny Novgorod,Russia,RU1,Outros
+498,KSC Lokeren (- 2020),Belgium,BE1,Outros
+499,Vitesse Arnhem,Netherlands,NL1,Outros
+5,AC Milan,Italy,IT1,Top 5 Europa
+501,Fotballklubben Bodø/Glimt,Norway,NO1,Outros
+504,Grasshopper Club Zurich,Switzerland,C1,Outros
+50531,Al-Fayha FC,Saudi Arabia,SA1,Outros
+50532,Damac Football Club,Saudi Arabia,SA1,Outros
+506,Juventus FC,Italy,IT1,Top 5 Europa
+511,Dundee FC,Scotland,SC1,Outros
+512,Stoke City,England,GB1,Top 5 Europa
+51663,Atlanta United Football Club,United States,MLS1,Outros
+51772,Football Club Cincinnati,United States,MLS1,Outros
+51828,Los Angeles Football Club,United States,MLS1,Outros
+520,Cercle Brugge,Belgium,BE1,Outros
+5202,Västerås Sportklubb FK,Sweden,SE1,Outros
+5219,AOK Kerkyra,Greece,GR1,Outros
+5220,GS Ergotelis,Greece,GR1,Outros
+524,Gaziantepspor (- 2020),Türkiye,TR1,Outros
+527,Football Club Lausanne-Sport,Switzerland,C1,Outros
+53,OFK Beograd,Serbia,SER1,Outros
+533,TSG 1899 Hoffenheim,Germany,L1,Top 5 Europa
+5358,SD Huesca,Spain,ES1,Top 5 Europa
+53646,FK Polissya Zhytomyr,Ukraine,UKR1,Outros
+537,S. A. F. Botafogo,Brazil,BRA1,América do Sul
+54189,RWD Molenbeek,Belgium,BE1,Outros
+543,Wolverhampton Wanderers,England,GB1,Top 5 Europa
+54585,Sepsi OSK Sf. Gheorghe,Romania,RO1,Outros
+553,Ionikos Nikeas,Greece,GR1,Outros
+5544,1.FC Slovacko,Czech Republic,TS1,Outros
+5545,FC Zlin,Czech Republic,TS1,Outros
+5546,FK Mlada Boleslav,Czech Republic,TS1,Outros
+5551,Newcastle United Jets,Australia,AUS1,Outros
+55686,TOV FK Metalist 1925 Kharkiv,Ukraine,UKR1,Outros
+5572,Niki Volou,Greece,GR1,Outros
+56089,Minnesota United FC,United States,MLS1,Outros
+5619,Aalesunds Fotballklubb,Norway,NO1,Outros
+566,Beerschot AC,Belgium,BE1,Outros
+5662,Puebla FC,Mexico,MEX1,Outros
+5689,Cracovia,Poland,PL1,Outros
+5724,Randers FC,Denmark,DK1,Outros
+5776,FC Fredericia,Denmark,DK1,Outros
+58,RSC Anderlecht,Belgium,BE1,Outros
+58049,FC Hermannstadt,Romania,RO1,Outros
+5817,Sönderjyske Fodbold,Denmark,DK1,Outros
+5818,Hobro IK,Denmark,DK1,Outros
+583,Paris Saint-Germain,France,FR1,Top 5 Europa
+585,São Paulo Futebol Clube,Brazil,BRA1,América do Sul
+589,Antalyaspor,Türkiye,TR1,Outros
+593,Kyoto Purple Sanga,Japan,JAP1,Outros
+59358,FK Zeleznicar Pancevo,Serbia,SER1,Outros
+595,SC Bastia,France,FR1,Top 5 Europa
+596,Gamba Osaka,Japan,JAP1,Outros
+599,NK Varazdin,Croatia,KR1,Outros
+6,Adanaspor,Türkiye,TR1,Outros
+60,SC Freiburg,Germany,L1,Top 5 Europa
+601,KV Kortrijk,Belgium,BE1,Outros
+603,Cardiff City,England,GB1,Top 5 Europa
+605,Aris Thessalonikis,Greece,GR1,Outros
+60551,SC Dnipro-1,Ukraine,UKR1,Outros
+607,Venezia FC,Italy,IT1,Top 5 Europa
+6070,Al-Khaleej Club (Saihat),Saudi Arabia,SA1,Outros
+609,Cruzeiro Esporte Clube,Brazil,BRA1,América do Sul
+60949,Volou Neos Podosferikos Syllogos,Greece,GR1,Outros
+61,Servette FC,Switzerland,C1,Outros
+610,Ajax Amsterdam,Netherlands,NL1,Outros
+6107,Morski Związkowy Klub Sportowy Arka Gdynia Spółka Akcyjna,Poland,PL1,Outros
+6110,Korona Kielce,Poland,PL1,Outros
+6112,Piast Gliwice,Poland,PL1,Outros
+614,Clube de Regatas do Flamengo,Brazil,BRA1,América do Sul
+618,AS Saint-Étienne,France,FR1,Top 5 Europa
+61825,FC Minaj,Ukraine,UKR1,Outros
+6195,SSC Napoli,Italy,IT1,Top 5 Europa
+62,SK Slavia Prague,Czech Republic,TS1,Outros
+621,Athletic Bilbao,Spain,ES1,Top 5 Europa
+623,Red Bull New York,United States,MLS1,Outros
+626,New England Revolution,United States,MLS1,Outros
+63007,LNZ Cherkasy,Ukraine,UKR1,Outros
+631,Chelsea FC,England,GB1,Top 5 Europa
+6321,Vancouver Whitecaps FC,United States,MLS1,Outros
+63966,Nashville SC,United States,MLS1,Outros
+6399,Sandefjord Fotball,Norway,NO1,Outros
+641,Middlesbrough FC,England,GB1,Top 5 Europa
+6414,Metalist Kharkiv (- 2016),Ukraine,UKR1,Outros
+6418,Panetolikos Agrinio,Greece,GR1,Outros
+642,De Graafschap Doetinchem,Netherlands,NL1,Outros
+6429,FC Universitatea Cluj,Romania,RO1,Outros
+6456,GKS GieKSa Katowice Spółka Akcyjna,Poland,PL1,Outros
+6495,Atlético Bucaramanga,Colombia,COL1,América do Sul
+6499,Foundation Coorperation Hana Financial Group Inc. Football Club,"Korea, South",RSK1,Outros
+65,SpVgg Greuther Fürth,Germany,L1,Top 5 Europa
+6500,Football Club Seoul,"Korea, South",RSK1,Outros
+6502,Jeonbuk Hyundai Motors,"Korea, South",RSK1,Outros
+6504,Daegu FC,"Korea, South",RSK1,Outros
+6505,Gimcheon Sangmu Football Club,"Korea, South",RSK1,Outros
+653,Omilos Filathlon Irakliou FC,Greece,GR1,Outros
+6574,US Sassuolo,Italy,IT1,Top 5 Europa
+660,FC Shakhtar Donetsk,Ukraine,UKR1,Outros
+6600,Sport Club Internacional,Brazil,BRA1,América do Sul
+6621,FK Cukaricki,Serbia,SER1,Outros
+6622,FK Mladost Lucani,Serbia,SER1,Outros
+6631,Tokyo Football Club,Japan,JAP1,Outros
+6632,Hitachi Kashiwa Reysol,Japan,JAP1,Outros
+6643,Real Salt Lake,United States,MLS1,Outros
+6646,Fatih Karagümrük,Türkiye,TR1,Outros
+667,RC Strasbourg Alsace,France,FR1,Top 5 Europa
+6676,A.G.S Asteras Tripolis,Greece,GR1,Outros
+669,FK Partizan Belgrade,Serbia,SER1,Outros
+6711,Deportivo Guadalajara,Mexico,MEX1,Outros
+672,JEF United,Japan,JAP1,Outros
+677,Ipswich Town,England,GB1,Top 5 Europa
+678,Aarhus GF,Denmark,DK1,Outros
+679,Clube Atlético Paranaense,Brazil,BRA1,América do Sul
+681,Real Sociedad,Spain,ES1,Top 5 Europa
+683,Olympiakos Syndesmos Filathlon Peiraios,Greece,GR1,Outros
+68608,CF Os Belenenses,Portugal,PO1,Outros
+687,Molde Fotballklubb,Norway,NO1,Outros
+6890,Basaksehir FK,Türkiye,TR1,Outros
+6894,Kayseri Erciyesspor,Türkiye,TR1,Outros
+6912,FC Vizela,Portugal,PO1,Outros
+69261,Club Internacional de Fútbol Miami,United States,MLS1,Outros
+6954,Central Coast Mariners,Australia,AUS1,Outros
+697,FC Slovan Liberec,Czech Republic,TS1,Outros
+6984,Once Caldas,Colombia,COL1,América do Sul
+6992,Chornomorets Odesa,Ukraine,UKR1,Outros
+6993,FK Mariupol,Ukraine,UKR1,Outros
+6994,Metalurg Zaporizhya (-2016),Ukraine,UKR1,Outros
+6996,Goverla Uzhgorod (- 2016),Ukraine,UKR1,Outros
+7006,Melbourne Victory,Australia,AUS1,Outros
+7009,Göteborgs Atlet- och Idrottssällskap,Sweden,SE1,Outros
+703,Nottingham Forest,England,GB1,Top 5 Europa
+7055,Tigres UANL,Mexico,MEX1,Outros
+7097,Club Atlético Unión,Argentina,ARG1,América do Sul
+71084,Western United FC,Australia,AUS1,Outros
+71085,Macarthur FC,Australia,AUS1,Outros
+7136,Envigado FC,Colombia,COL1,América do Sul
+714,RCD Espanyol Barcelona,Spain,ES1,Top 5 Europa
+715,"Bohemians Praha 1905, a.s.",Czech Republic,TS1,Outros
+7154,Radomiak Radom,Poland,PL1,Outros
+7160,Eyüpspor,Türkiye,TR1,Outros
+71665,Al-Okhdood Club,Saudi Arabia,SA1,Outros
+7179,CD Tondela,Portugal,PO1,Outros
+7185,Panthrakikos Komotini,Greece,GR1,Outros
+71985,Akron Togliatti,Russia,RU1,Outros
+720,FC Porto,Portugal,PO1,Outros
+723,Almere City FC,Netherlands,NL1,Outros
+72309,Austin FC,United States,MLS1,Outros
+724,FC Volendam,Netherlands,NL1,Outros
+7378,Portimonense SC,Portugal,PO1,Outros
+738,Le Havre AC,France,FR1,Top 5 Europa
+749,FC Empoli,Italy,IT1,Top 5 Europa
+750,FC Sochaux-Montbéliard,France,FR1,Top 5 Europa
+75231,Dinamo Makhachkala,Russia,RU1,Outros
+7567,FK Radnicki Nis,Serbia,SER1,Outros
+759,Slask Wroclaw,Poland,PL1,Outros
+76,Vålerengens Idrettsforening,Norway,NO1,Outros
+762,Newcastle United,England,GB1,Top 5 Europa
+7633,UNAM Pumas,Mexico,MEX1,Outros
+7732,Al-Ettifaq Football Club,Saudi Arabia,SA1,Outros
+776,Coritiba Foot Ball Club,Brazil,BRA1,América do Sul
+7769,CFR Cluj,Romania,RO1,Outros
+7775,Hatayspor,Türkiye,TR1,Outros
+7831,Brisbane Roar,Australia,AUS1,Outros
+78435,Charlotte Football Club,United States,MLS1,Outros
+788,FK Napredak Krusevac,Serbia,SER1,Outros
+79,VfB Stuttgart,Germany,L1,Top 5 Europa
+7945,IK Sirius,Sweden,SE1,Outros
+798,Excelsior Rotterdam,Netherlands,NL1,Outros
+80,VfL Bochum,Germany,L1,Top 5 Europa
+800,Atalanta BC,Italy,IT1,Top 5 Europa
+801,Idrottsföreningen Kamraterna Göteborg,Sweden,SE1,Outros
+8023,Al-Ittihad Football Club,Saudi Arabia,SA1,Outros
+8024,FC Arouca,Portugal,PO1,Outros
+8054,Sydney FC,Australia,AUS1,Outros
+813,Columbus Crew,United States,MLS1,Outros
+814,FK Teplice,Czech Republic,TS1,Outros
+81401,SC Poltava,Ukraine,UKR1,Outros
+8172,Atlético Nacional,Colombia,COL1,América do Sul
+82,VfL Wolfsburg,Germany,L1,Top 5 Europa
+820,Gençlerbirliği Spor Kulübü,Türkiye,TR1,Outros
+825,Eskisehirspor,Türkiye,TR1,Outros
+826,RC Lens,France,FR1,Top 5 Europa
+82686,St. Louis City Soccer Club,United States,MLS1,Outros
+82696,Mazatlán FC,Mexico,MEX1,Outros
+828,Urawa Red Diamonds,Japan,JAP1,Outros
+830,Club Atlético Banfield,Argentina,ARG1,América do Sul
+833,Denizlispor,Türkiye,TR1,Outros
+8344,Albirex Niigata,Japan,JAP1,Outros
+83678,Metalist Kharkiv,Ukraine,UKR1,Outros
+84122,Epicentr Kamyanets-Podilskyi,Ukraine,UKR1,Outros
+8445,Wellington Phoenix,Australia,AUS1,Outros
+8457,Shonan Bellmare,Japan,JAP1,Outros
+85465,Karpaty Lviv,Ukraine,UKR1,Outros
+855,EA Guingamp,France,FR1,Top 5 Europa
+8590,Atlas Guadalajara,Mexico,MEX1,Outros
+86,SV Werder Bremen,Germany,L1,Top 5 Europa
+862,Chievo Verona,Italy,IT1,Top 5 Europa
+86209,Livyi Bereg Kyiv,Ukraine,UKR1,Outros
+865,FC Midtjylland,Denmark,DK1,Outros
+868,MKE Ankaragücü,Türkiye,TR1,Outros
+8718,Sport Club do Recife,Brazil,BRA1,América do Sul
+873,Crystal Palace,England,GB1,Top 5 Europa
+875,Adelaide United,Australia,AUS1,Outros
+87883,FC Kudrivka,Ukraine,UKR1,Outros
+8793,Red Bull Bragantino,Brazil,BRA1,América do Sul
+88,Widzew Lodz,Poland,PL1,Outros
+8816,FC Dallas,United States,MLS1,Outros
+8818,FC Botosani,Romania,RO1,Outros
+8819,FK Javor-Matis Ivanjica,Serbia,SER1,Outros
+8838,Zirka Kropyvnytskyi,Ukraine,UKR1,Outros
+89,1.FC Union Berlin,Germany,L1,Top 5 Europa
+897,Deportivo de La Coruña,Spain,ES1,Top 5 Europa
+8970,Frosinone Calcio,Italy,IT1,Top 5 Europa
+9007,Arsenal Kyiv,Ukraine,UKR1,Outros
+9010,FCV Dender EH,Belgium,BE1,Outros
+903,Hibernian FC,Scotland,SC1,Outros
+9131,Al-Hazem Sport Club,Saudi Arabia,SA1,Outros
+91427,Al-Kholood Club,Saudi Arabia,SA1,Outros
+9168,Houston Dynamo,United States,MLS1,Outros
+924,Istanbulspor,Türkiye,TR1,Outros
+928,Club Atlético Platense,Argentina,ARG1,América do Sul
+931,Fulham FC,England,GB1,Top 5 Europa
+932,"Футбольный клуб ""Локомотив"" Москва",Russia,RU1,Outros
+938,FC Thun,Switzerland,C1,Outros
+940,Celta de Vigo,Spain,ES1,Top 5 Europa
+941,FC Viktoria Plzen,Czech Republic,TS1,Outros
+943,Yokohama FC,Japan,JAP1,Outros
+9465,Petrolul Ploiesti,Romania,RO1,Outros
+952,UTA Arad,Romania,RO1,Outros
+9597,Avispa Fukuoka,Japan,JAP1,Outros
+9598,Kawasaki Frontale,Japan,JAP1,Outros
+9636,Seattle Sounders FC,United States,MLS1,Outros
+964,AO FK Zenit Sankt-Peterburg,Russia,RU1,Outros
+9644,Raków Częstochowa,Poland,PL1,Outros
+968,KVC Westerlo,Belgium,BE1,Outros
+969,Montpellier HSC,France,FR1,Top 5 Europa
+970,Perth Glory,Australia,AUS1,Outros
+976,CF União Madeira (-2021),Portugal,PO1,Outros
+978,Club de Regatas Vasco da Gama,Brazil,BRA1,América do Sul
+979,Moreirense FC,Portugal,PO1,Outros
+9811,Deportivo Pereira,Colombia,COL1,América do Sul
+982,CD Nacional,Portugal,PO1,Outros
+984,West Bromwich Albion,England,GB1,Top 5 Europa
+9840,Al-Shabab Club,Saudi Arabia,SA1,Outros
+985,Manchester United,England,GB1,Top 5 Europa
+987,Motherwell FC,Scotland,SC1,Outros
+989,AFC Bournemouth,England,GB1,Top 5 Europa
+993,Córdoba CF,Spain,ES1,Top 5 Europa
+995,FC Nantes,France,FR1,Top 5 Europa
+9961,Deportivo Cali,Colombia,COL1,América do Sul
+999,NK Istra 1961,Croatia,KR1,Outros
