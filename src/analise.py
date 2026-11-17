@@ -217,6 +217,7 @@ def a3_caminhos_reais(clubes):
 
     direto = via = nunca = 0
     escala_pais, escala_clube, saltos = Counter(), Counter(), []
+    destino_nunca, voltaram = Counter(), 0   # jogadores que nunca chegaram ao Top 5
     for _, g in t.groupby("player_id"):
         g = g.reset_index(drop=True)
         saida = g.index[g["po"].isin(AMERICA_SUL) & ~g["pd"].isin(AMERICA_SUL)]
@@ -226,6 +227,10 @@ def a3_caminhos_reais(clubes):
         chegada = resto.index[resto["pd"].isin(TOP5)]
         if len(chegada) == 0:
             nunca += 1
+            d = g.loc[saida[0], "pd"]
+            destino_nunca[pt(d) if isinstance(d, str) else "Fora da base"] += 1
+            if resto.iloc[-1]["pd"] in AMERICA_SUL:   # última transferência: de volta à América do Sul
+                voltaram += 1
             continue
         meio = g.loc[saida[0]:chegada[0] - 1]
         meio = meio[~meio["pd"].isin(AMERICA_SUL)]
@@ -244,6 +249,11 @@ def a3_caminhos_reais(clubes):
     log(f"  chegaram ao Top 5: {chegaram} ({chegaram / (direto + via + nunca):.1%})")
     log(f"    direto: {direto} ({direto / chegaram:.1%})   com escala: {via} ({via / chegaram:.1%})")
     log(f"  média de transferências até o Top 5: {np.mean(saltos):.2f}")
+    log(f"  nunca chegaram ao Top 5: {nunca} ({nunca / (direto + via + nunca):.1%}); "
+        f"última transferência de volta à América do Sul: {voltaram} ({voltaram / nunca:.1%})")
+    log("  primeiro destino de quem nunca chegou ao Top 5:")
+    for p, n in destino_nunca.most_common(6):
+        log(f"    {p:14} {n:4} ({n / nunca:.1%})")
     log("País da primeira escala:")
     for p, n in escala_pais.most_common(8):
         log(f"  {p:14} {n:4} ({n / via:.1%})")
